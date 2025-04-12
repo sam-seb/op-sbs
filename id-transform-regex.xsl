@@ -17,7 +17,7 @@
         <xsl:analyze-string select="." regex="([OD]):(.+?\n)">
             <xsl:matching-substring>
                 <d><!-- ebb: How about <d> for dialogue? -->
-                    <char><xsl:value-of select="regex-group(1)"/></char>
+                    <speaker><xsl:value-of select="regex-group(1)"/></speaker>
                     <say><xsl:value-of select="regex-group(2)"/></say>
                 </d>
             </xsl:matching-substring>

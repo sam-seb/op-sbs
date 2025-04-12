@@ -33,7 +33,7 @@
             </p:with-input>
             <p:with-input port="stylesheet" href="id-transform-regex.xsl"/>
         </p:xslt>
-        <p:identity message="Running the Identity Trnasformation XSLT to develop the XML"/>
+        <p:identity message="Running the Identity Transformation XSLT to develop the XML"/>
         <p:store href="full-xml-output/{$filename}.xml" serialization="map {
             'method' : 'xml',
             'indent' : true(),
