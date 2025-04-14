@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="21"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="187"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="21" ixml:state="ambiguous">
+   <chapter num="187" page="26">
       <d>
          <speaker>D</speaker>
          <say> Hello. In Volume 19, someone started the SBS the way Miss Merry Christmas would start it. So I'd like to start it the way Mr. 4 would do it. 
@@ -37,8 +34,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="188"
-            page="46">
+   <chapter num="188" page="46">
       <d>
          <speaker>D</speaker>
          <say> They don't show One Piece on TV where I live... How can we stand for such atrocities? Please (x2), I don't care if they're just re-runs or whatever, just have them broadcast here where I live! Though it's probably an impossible request...
@@ -61,12 +57,10 @@
 </say>
       </d>
    </chapter>
-   <chapter num="189"
-            page="66">
+   <chapter num="189" page="66">
       <info>No questions, just a little game made by a reader.</info>
    </chapter>
-   <chapter num="190"
-            page="86">
+   <chapter num="190" page="86">
       <d>
          <speaker>D</speaker>
          <say> What are "Orange Pekoe" and "Apple Tea"?
@@ -88,8 +82,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="191"
-            page="106">
+   <chapter num="191" page="106">
       <d>
          <speaker>D</speaker>
          <say> Oda-sensei! I was astonished when I read Volume 19! Because in the first panel of page 104, Sam is among the people running about! Why is he in Alabasta? Why is he drunk again? Tell me!!
@@ -112,12 +105,10 @@
 </say>
       </d>
    </chapter>
-   <chapter num="192"
-            page="126">
+   <chapter num="192" page="126">
       <info>Another game made by a reader.</info>
    </chapter>
-   <chapter num="194"
-            page="164">
+   <chapter num="194" page="164">
       <d>
          <speaker>O</speaker>
          <say> Ahem. I've been receiving a ton of questions about the anime so I'm going to tell you how much I'm involved in it, to either answer those questions or just to let you know.

@@ -34,15 +34,25 @@
             <p:with-input port="stylesheet" href="id-transform-regex.xsl"/>
         </p:xslt>
         <p:identity message="Running the Identity Transformation XSLT to develop the XML"/>
-        <p:store href="full-xml-output/{$filename}.xml" serialization="map {
+        <p:store name="full-xml-out" href="full-xml-output/{$filename}.xml" serialization="map {
             'method' : 'xml',
             'indent' : true(),
             'omit-xml-declaration' : false()
             }"/>
         <p:identity message="Saved finalized XML"/>
         <!-- ebb: Later, let's put in a Relax NG, maybe Schematron validation steps here -->
+        <p:xslt>
+            <p:with-input port="source">
+                <p:pipe step="full-xml-out" port="result"/>
+            </p:with-input>
+            <p:with-input port="stylesheet" href="nlp-prep.xsl"/>
+        </p:xslt>
+        <p:identity message="Running the XSLT to output text for Python NLP"/>
+        <p:store href="nlp-text/{$filename}.txt"/>
+        <p:identity message="Saved output text for NLP"/>
  
     </p:for-each>
+   
    
 
 </p:declare-step>
