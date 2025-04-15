@@ -1,13 +1,15 @@
-# One Piece Pipeline
-Disclaimer: very very subject to change!!
+# One Piece Task List
+Disclaimer: all instructions/plans are loose. I don't really care what happens as long as it makes sense. You feel?
+- FIX XML. This can likely be done using REGEX. 
+    - (Find: ``</say>\n</d>\n<d>\n<speaker>``)
+    - (Replace: ``</say>\n<speaker>``)
+   
+    Should work in theory...
+    - (OPTIONAL) replace ``<d>`` tag with something more appropriate? ``<qna>`` maybe I dont know.
+    - ADDITIONALLY. Fix ``<info>`` tags. Can be done by manually search and replacing each one via regex. There's probably an easier way but my head is pounding and I cannot think straight. Change them to ``<say>`` tags. Alternatively, change all ``<info> and <say>`` tags to ``<content>`` tags. Shrug emoji. I don't particularly care, as long as it makes sense.
 
-another disclaimer i don't know if i'm understanding the assignment properly. broken heart emoji
 
-1. obviously, i think we need to work with ixml and such. we've got a solid start (shoutout dr. b), but it will be beneficial to do some on our own, probably
-1. planning what the project is actually going to look like. this might be priority number one, actually. i'm uncertain. but i'd really like to figure out what we want this website to look like. this is different from actually making the website
-1. probably more that i can't think of right now. this is all subject to change
-
-
-other things i'd like to note:
-1. each member is responsible for 8 SBS volumes for a grand total of 24 text files. 
-1. this will be expanded upon. 
+- SVG VISUALIZATION. Likely in the form of bar graphs, but we will see. 
+- PYTHON. Count the number of times a character is mentioned PER ``<d> or <qna>`` TAG (whichever version we decide upon). 
+    - NAMES TO ACCOUNT FOR
+    - Luffy, Zoro, Nami, Usopp, Sanji, Chopper, Robin, Going Merry
