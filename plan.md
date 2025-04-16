@@ -13,3 +13,4 @@ Disclaimer: all instructions/plans are loose. I don't really care what happens a
 - PYTHON. Count the number of times a character is mentioned PER ``<d> or <qna>`` TAG (whichever version we decide upon). 
     - NAMES TO ACCOUNT FOR
     - Luffy, Zoro, Nami, Usopp, Sanji, Chopper, Robin, Going Merry
+- XSLT. Do this post-fixing XML. I'll update more later.
