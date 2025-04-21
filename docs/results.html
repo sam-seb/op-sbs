@@ -21,6 +21,17 @@
         main {
             padding: 20px;
         }
+        div.flex {
+        display:flex;
+        width:80%;
+        }
+        figure.svg {
+        flex:2;
+        }
+        figure.svg img {
+        width:100%;
+/*        max-width:1500px;*/
+        }
     </style>
     </head>
     <body>
@@ -35,7 +46,9 @@
         <main>
             <h1>Final Results</h1>
             <p>This page would tally the results of how many questions each character in One Piece got from the audience (With the world and Oda each getting their own catagory). We could probably use SVG to visualize the final results with images representing each catagory. As seen below:</p>
-            <img src="images/final-results.svg" style="width:150%;height:150%" alt="Total number of questions asked across the following catagories"/>
+<div class="flex">
+    <p>sample text</p>
+    <figure class="svg"><img src="images/final-results.svg" alt="Total number of questions asked across the following catagories"/></figure></div>
         </main>
     </body>
 </html>
