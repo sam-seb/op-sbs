@@ -12,19 +12,17 @@
     <xsl:variable name="charName" as="xs:string+" select="'Morgan', 'Alvida', 'Luffy', 'Zoro', 'Nami', 'Usopp'"/>
 
 <xsl:template match="say">
-    <xsl:variable name="tokenizedText" as="xs:string+" select="text() ! tokenize(., '\s | \W')"/>
-    
+    <xsl:variable name="tokenizedText" as="xs:string+" select="text() ! tokenize(., '\s+')"/>
    
-    
-    <xsl:for-each select="$tokenizedText">
-       
+       <xsl:for-each select="$tokenizedText">
         
        <xsl:choose>
-           <xsl:when test="current() = $charName">
-               <span class="char"><xsl:value-of select="current()"/></span>
+           <xsl:when test="for $i in $charName return current()[matches(., $i)]">
+               <span class="char" title="{for $i in $charName return $i[contains(current(), .) ]}"><xsl:value-of select="current()"/></span>
+               <xsl:text> </xsl:text>
            </xsl:when>
            <xsl:otherwise>
-               <xsl:value-of select="current()"/>
+               <xsl:value-of select="current() || ' '"/>
            </xsl:otherwise>
            
        </xsl:choose>
