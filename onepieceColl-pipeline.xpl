@@ -34,16 +34,38 @@
             <p:with-input port="stylesheet" href="id-transform-regex.xsl"/>
         </p:xslt>
         <p:identity message="Running the Identity Transformation XSLT to develop the XML"/>
-        <p:store name="full-xml-out" href="full-xml-output/{$filename}.xml" serialization="map {
+        <p:store name="d-xml-out" href="d-xml-output/{$filename}.xml" serialization="map {
             'method' : 'xml',
             'indent' : true(),
             'omit-xml-declaration' : false()
             }"/>
         <p:identity message="Saved finalized XML"/>
         <!-- ebb: Later, let's put in a Relax NG, maybe Schematron validation steps here -->
+        <!-- 2025-04-29 ebb: Adding QNA elements here -->
         <p:xslt>
             <p:with-input port="source">
-                <p:pipe step="full-xml-out" port="result"/>
+                <p:pipe step="d-xml-out" port="result"/>
+            </p:with-input>
+            <p:with-input port="stylesheet" href="qna-grouping.xsl"/>
+        </p:xslt>
+        <p:identity message="Running the XSLT to output 'QNA' XML structural groups"/>
+        <p:store name="qna-xml-out" href="qna-xml-out/{$filename}.xml"/>
+        <p:identity message="Applied QNA structural markup!"/>
+        <!-- 2025-04-29 ebb: Character Tagging happens in this next step! NOTE: this stage pulls from qna-xml-out. -->
+        <p:xslt>
+            <p:with-input port="source">
+                <p:pipe step="qna-xml-out" port="result"/>
+            </p:with-input>
+            <p:with-input port="stylesheet" href="charName-variable.xsl"/>
+        </p:xslt>
+        <p:identity message="Running the XSLT to output text for Python NLP"/>
+        <p:store name="char-xml-out" href="char-xml-out/{$filename}.xml"/>
+        <p:identity message="Applied character tagging to the XML"/>
+        <!-- 2025-04-29 ebb: We'll process NLP text output in the LAST stage. 
+            CHECK: Does this need to be changed to accommodate QNA + char markup? -->
+        <p:xslt>
+            <p:with-input port="source">
+                <p:pipe step="char-xml-out" port="result"/>
             </p:with-input>
             <p:with-input port="stylesheet" href="nlp-prep.xsl"/>
         </p:xslt>
