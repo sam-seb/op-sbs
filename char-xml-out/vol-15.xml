@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="15"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="127"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="15" ixml:state="ambiguous">
+   <chapter num="127" page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -22,17 +19,16 @@
          </d>
          <d>
             <speaker>O</speaker>
-            <say> Wow. Knowledgeable Himeko knows a lot!! Okay, then I have a question for you, Knowledgeable Himeko. Why is it that in page 51 of Volume 1, in an extremely important scene, that the three lines on Shanks' pirate flag were forg... not there? Was it too much of a pain to... is there a deep reason why it wasn't redrawn despite all the readers pointing it out? I got it!!  </say>
+            <say> Wow. Knowledgeable Himeko knows a lot!! Okay, then I have a question for you, Knowledgeable Himeko. Why is it that in page 51 of Volume 1, in an extremely important scene, that the three lines on <char name="Shanks">Shanks'</char> pirate flag were forg... not there? Was it too much of a pain to... is there a deep reason why it wasn't redrawn despite all the readers pointing it out? I got it!!  </say>
          </d>
          <info>[insert SBS_Vol_15_01] It's a message to all the boys and girls saying to go out on a voyage to heal those three scars!! Right?! No, I'm sorry. I forgot... Okay, everyone!! Get out your pens, it's retouching time! I know I make millions of errors, but this is one that I really can't let slide.</info>
       </qna>
    </chapter>
-   <chapter num="129"
-            page="70">
+   <chapter num="129" page="70">
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> I have a question. On Volume 12, page 31, what is that "sailing ceremony" they do? Pen Name: Vivi Fanclub No. 17  </say>
+            <say> I have a question. On Volume 12, page 31, what is that "sailing ceremony" they do? Pen Name: <char name="Vivi">Vivi</char> Fanclub No. 17  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -41,8 +37,7 @@
          <info>[insert SBS15 2 Sailing Ceremony] Kaya: It's finished! → yah!</info>
       </qna>
    </chapter>
-   <chapter num="130"
-            page="90">
+   <chapter num="130" page="90">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -79,7 +74,7 @@
             <say> Oda-sensei!! I've been wondering for a while... What are <char name="Luffy">Luffy,</char>
                <char name="Zoro">Zoro,</char>
                <char name="Nami">Nami,</char>
-               <char name="Usopp">Usopp</char> and Sanji's birthdays? Tell us!!  </say>
+               <char name="Usopp">Usopp</char> and <char name="Sanji">Sanji's</char> birthdays? Tell us!!  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -98,8 +93,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="131"
-            page="110">
+   <chapter num="131" page="110">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -131,8 +125,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="132"
-            page="130">
+   <chapter num="132" page="130">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -156,7 +149,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Oda-senseeei, I looooooove you. Oda-senseeeeeeeei, marry meeeeeee and if not answer my questioooon okay first of all, Gold Roger and Red-Hair Shanks seem pretty tough, but what aaare the bounties placed on their heaaads and another question will you marry meeeeeee.  </say>
+            <say> Oda-senseeei, I looooooove you. Oda-senseeeeeeeei, marry meeeeeee and if not answer my questioooon okay first of all, Gold Roger and Red-Hair <char name="Shanks">Shanks</char> seem pretty tough, but what aaare the bounties placed on their heaaads and another question will you marry meeeeeee.  </say>
          </d>
          <d>
             <speaker>O</speaker>

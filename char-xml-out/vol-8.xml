@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <volume num="8">
-   <chapter num="64"
-            page="44">
+   <chapter num="64" page="44">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -35,16 +34,15 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> I have a question. How many g/cm3 is Sanji's kick power? I would like you to give me an answer to two decimals, please.  </say>
+            <say> I have a question. How many g/cm3 is <char name="Sanji">Sanji's</char> kick power? I would like you to give me an answer to two decimals, please.  </say>
          </d>
          <d>
             <speaker>O</speaker>
-            <say> To tell you the truth, it's impossible to measure. There are games at the arcade that measure your kick power? Well, if Sanji used one of those, he would destroy not only the game, but the wall of the entire building. But if you tried to put it into a form of measurement, I would say 21 bats. The power to destroy 21 wooden baseball bats in one kick.  </say>
+            <say> To tell you the truth, it's impossible to measure. There are games at the arcade that measure your kick power? Well, if <char name="Sanji">Sanji</char> used one of those, he would destroy not only the game, but the wall of the entire building. But if you tried to put it into a form of measurement, I would say 21 bats. The power to destroy 21 wooden baseball bats in one kick.  </say>
          </d>
       </qna>
    </chapter>
-   <chapter num="65"
-            page="64">
+   <chapter num="65" page="64">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -52,7 +50,7 @@
          </d>
          <d>
             <speaker>O</speaker>
-            <say> I'll tell you. But when I say "in One Piece". I really mean, "of all the characters introduced so far in One Piece". And having cleared that up, the character with the highest IQ is Shanks' first mate, Benn Beckman. He is a great crewmate, who supports Shanks with his astonishing wisdom and strength. And right after him would probably be Captain Kuro, then <char name="Nami">Nami,</char> etc. Now as for the lowest IQ... I can't decide the worst one. They're all idiots.  </say>
+            <say> I'll tell you. But when I say "in One Piece". I really mean, "of all the characters introduced so far in One Piece". And having cleared that up, the character with the highest IQ is <char name="Shanks">Shanks'</char> first mate, Benn Beckman. He is a great crewmate, who supports <char name="Shanks">Shanks</char> with his astonishing wisdom and strength. And right after him would probably be Captain Kuro, then <char name="Nami">Nami,</char> etc. Now as for the lowest IQ... I can't decide the worst one. They're all idiots.  </say>
          </d>
       </qna>
       <qna>
@@ -88,12 +86,11 @@
          <info>("Aiiin" is a well-known gag from veteran comedian Shimura Ken. Ken's recent famous characters are Baka Tono (Stupid Lord) and Henna Ojisan. Baka Tono's signature pose is "Aiiiiiiin!" The sub-unit of Morning Musume, Mini Moni even did an entire song on it called "Ai~n! Dance Song")</info>
       </qna>
    </chapter>
-   <chapter num="66"
-            page="84">
+   <chapter num="66" page="84">
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Does Sanji-san like to say shit?  </say>
+            <say> Does <char name="Sanji">Sanji-san</char> like to say shit?  </say>
          </d>
       </qna>
       <qna>
@@ -118,8 +115,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="67"
-            page="104">
+   <chapter num="67" page="104">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -132,8 +128,7 @@
          <info>[Class schedule goes here]</info>
       </qna>
    </chapter>
-   <chapter num="69"
-            page="146">
+   <chapter num="69" page="146">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -169,7 +164,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> When we were talking about One Piece, I said I like Shanks, my friend S. likes <char name="Zoro">Zoro,</char> and I. likes <char name="Luffy">Luffy,</char> but R. likes Buggy and Jango. Should they go see a doctor?  </say>
+            <say> When we were talking about One Piece, I said I like <char name="Shanks">Shanks,</char> my friend S. likes <char name="Zoro">Zoro,</char> and I. likes <char name="Luffy">Luffy,</char> but R. likes <char name="Buggy">Buggy</char> and Jango. Should they go see a doctor?  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -177,8 +172,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="70"
-            page="168">
+   <chapter num="70" page="168">
       <qna>
          <d>
             <speaker>D</speaker>

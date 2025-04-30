@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <volume num="5">
-   <chapter num="36"
-            page="28">
+   <chapter num="36" page="28">
       <qna>
          <info>No SBS. Oda gave information about the first OVA.</info>
       </qna>
    </chapter>
-   <chapter num="42"
-            page="148">
+   <chapter num="42" page="148">
       <qna>
          <d>
             <speaker>O</speaker>
@@ -17,7 +15,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> I have an inquiry, Sensei. Doesn't the first mate on Shanks' ship have a name? And also the meat guy.  </say>
+            <say> I have an inquiry, Sensei. Doesn't the first mate on <char name="Shanks">Shanks'</char> ship have a name? And also the meat guy.  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -36,8 +34,7 @@
          <info>That's different.</info>
       </qna>
    </chapter>
-   <chapter num="43"
-            page="168">
+   <chapter num="43" page="168">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -51,7 +48,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> What does the "Möwe" written on <char name="Morgan">Morgan's</char> chin mean?  </say>
+            <say> What does the "Möwe" written on Morgan's chin mean?  </say>
          </d>
          <d>
             <speaker>O</speaker>

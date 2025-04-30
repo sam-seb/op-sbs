@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <volume num="5">
-   <chapter num="36"
-            page="28">
+   <chapter num="36" page="28">
       <qna>
          <info>No SBS. Oda gave information about the first OVA.</info>
       </qna>
    </chapter>
-   <chapter num="42"
-            page="148">
+   <chapter num="42" page="148">
       <qna>
          <d>
             <speaker>O</speaker>
@@ -41,8 +39,7 @@
          <info>That's different.</info>
       </qna>
    </chapter>
-   <chapter num="43"
-            page="168">
+   <chapter num="43" page="168">
       <qna>
          <d>
             <speaker>D</speaker>

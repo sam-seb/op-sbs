@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <volume num="6">
-   <chapter num="45"
-            page="26">
+   <chapter num="45" page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -19,7 +18,7 @@
          </d>
          <d>
             <speaker>O</speaker>
-            <say> Hmmmm... It's hard to say where to go in order to meet him. I suppose if you just set off on a relaxing voyage you might find him. But Buggy and the others are out there too, so please be careful. Please.  </say>
+            <say> Hmmmm... It's hard to say where to go in order to meet him. I suppose if you just set off on a relaxing voyage you might find him. But <char name="Buggy">Buggy</char> and the others are out there too, so please be careful. Please.  </say>
          </d>
       </qna>
       <qna>
@@ -33,8 +32,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="46"
-            page="46">
+   <chapter num="46" page="46">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -48,11 +46,11 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> When I told my friend "Buggy is sooooo cute ♥", she took a step back and called me a "weirdo"! Am I weird?  </say>
+            <say> When I told my friend <char name="Buggy">"Buggy</char> is sooooo cute ♥", she took a step back and called me a "weirdo"! Am I weird?  </say>
          </d>
          <d>
             <speaker>O</speaker>
-            <say> You're weird!! ... But I like Buggy too. And I'm not weird, am I? ...I'm special. I'm a special exception.  </say>
+            <say> You're weird!! ... But I like <char name="Buggy">Buggy</char> too. And I'm not weird, am I? ...I'm special. I'm a special exception.  </say>
          </d>
       </qna>
       <qna>
@@ -76,8 +74,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="47"
-            page="66">
+   <chapter num="47" page="66">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -121,7 +118,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Is there a mirror on <char name="Alvida">Alvida's</char> ship?  </say>
+            <say> Is there a mirror on Alvida's ship?  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -139,8 +136,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="49"
-            page="104">
+   <chapter num="49" page="104">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -154,17 +150,18 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> I noticed that you've never (I think) drawn Buggy-kun with his mouth closed. I want to see what his lips look like when they are shut.  </say>
+            <say> I noticed that you've never (I think) drawn <char name="Buggy">Buggy-kun</char> with his mouth closed. I want to see what his lips look like when they are shut.  </say>
          </d>
          <info>: When the question came up about Nami's three sizes (Bust-Waist-Hip) you said "I promise!!". So when are you going to tell us?!!</info>
          <d>
             <speaker>O</speaker>
-            <say> Hehe. I have a friend that comes in quite handy for this. His eye is quite accurate. It's that "weird chef", who can tell a girl's three sizes with just one look, Sanji-san!!  </say>
+            <say> Hehe. I have a friend that comes in quite handy for this. His eye is quite accurate. It's that "weird chef", who can tell a girl's three sizes with just one look, <char name="Sanji">Sanji-san!!</char>
+            </say>
          </d>
          <info>Sanji: Shitty guy! I ain't "weird"!! It's "love", I'm a "cook in love"!! Ah well, thanks for calling me. Just leave this stuff to me. Nami-san is so cute. And her style is right on. Now, let's take a look... B 86! W 57! H 86! No doubt about it!! She's so cuuuuute. Damn, she's a thief though. But I still love her!!</info>
          <d>
             <speaker>O</speaker>
-            <say> I kept my promise. Thank you Sanji! *crack!* Owwwww!  </say>
+            <say> I kept my promise. Thank you <char name="Sanji">Sanji!</char> *crack!* Owwwww!  </say>
          </d>
          <info>Nami: What do you think you're doing?</info>
          <d>
@@ -178,8 +175,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="50"
-            page="124">
+   <chapter num="50" page="124">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -187,7 +183,7 @@
          </d>
          <d>
             <speaker>O</speaker>
-            <say> Yes, there were. But it was considered bad luck to bring a woman on board a ship in those days, and so many of them disguised themselves as men. There were two woman pirates, Mary Read and Anne Bonny, who were said to have fought more bravely than any man. By the way, my character <char name="Alvida">Alvida</char> was based on a female pirate named Awilda (or <char name="Alvida">Alvida)</char> who formed a pirate crew comprised entirely of women.  </say>
+            <say> Yes, there were. But it was considered bad luck to bring a woman on board a ship in those days, and so many of them disguised themselves as men. There were two woman pirates, Mary Read and Anne Bonny, who were said to have fought more bravely than any man. By the way, my character Alvida was based on a female pirate named Awilda (or Alvida) who formed a pirate crew comprised entirely of women.  </say>
          </d>
       </qna>
       <qna>
@@ -214,11 +210,11 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> In Chapter 37, is the man who captured the fake "Kuro of a Hundred Plans", the Marine Captain "Axe-Arm <char name="Morgan">Morgan"?</char> When I asked my friend, he thought they looked the same too.  </say>
+            <say> In Chapter 37, is the man who captured the fake "Kuro of a Hundred Plans", the Marine Captain "Axe-Arm Morgan"? When I asked my friend, he thought they looked the same too.  </say>
          </d>
          <d>
             <speaker>O</speaker>
-            <say> He's <char name="Morgan">Morgan.</char> He was a Chief Petty Officer at the time, and then got promoted to Lieutenant Commander. From there he strong-armed his way up to a Captain, and was put in charge of a Marine base. When Kuro looked in his eyes, he must have sensed some sort of kindred spirit between them.  </say>
+            <say> He's Morgan. He was a Chief Petty Officer at the time, and then got promoted to Lieutenant Commander. From there he strong-armed his way up to a Captain, and was put in charge of a Marine base. When Kuro looked in his eyes, he must have sensed some sort of kindred spirit between them.  </say>
          </d>
       </qna>
    </chapter>

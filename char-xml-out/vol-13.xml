@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="13"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="109"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="13" ixml:state="ambiguous">
+   <chapter num="109" page="26">
       <qna>
          <d>
             <speaker>O</speaker>
@@ -42,8 +39,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="111"
-            page="64">
+   <chapter num="111" page="64">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -97,8 +93,7 @@
          <info>There are two types of blade edges: suguha or "straight edge"(2), and midareba or "unravelled edge"(3). These are types of patterns you can make on the blades when you forge them. But since unravelled edges come in various forms, they turn into an "unravelled edge with a ___". [Insert image of swords]</info>
       </qna>
    </chapter>
-   <chapter num="113"
-            page="104">
+   <chapter num="113" page="104">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -113,7 +108,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Hello, Oda-sensei. This is confusing to me, so please answer clearly. Is the stuff that you draw on Sanji-san's chin a BEARD? Or is it just a SHADOW? If it's a beard, please make him shave it off.  </say>
+            <say> Hello, Oda-sensei. This is confusing to me, so please answer clearly. Is the stuff that you draw on <char name="Sanji">Sanji-san's</char> chin a BEARD? Or is it just a SHADOW? If it's a beard, please make him shave it off.  </say>
          </d>
          <d>
             <speaker>O</speaker>

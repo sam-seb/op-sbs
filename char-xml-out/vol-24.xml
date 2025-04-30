@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="24"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="217"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="24" ixml:state="ambiguous">
+   <chapter num="217" page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -37,8 +34,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="218"
-            page="46">
+   <chapter num="218" page="46">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -52,7 +48,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Hold on, hold on, Oda-sensei. On the 2nd panel of page 215, chapter 216 "Vivi's Adventure" in Volume 23, I see 3 among the bystanders, THREE. He's just walkin' around! What in the WORLD is the meaning of this?! Didn't he die?! Give me an answer in a 75-character reply, right now!! (punctuation doesn't count)  </say>
+            <say> Hold on, hold on, Oda-sensei. On the 2nd panel of page 215, chapter 216 <char name="Vivi">"Vivi's</char> Adventure" in Volume 23, I see 3 among the bystanders, THREE. He's just walkin' around! What in the WORLD is the meaning of this?! Didn't he die?! Give me an answer in a 75-character reply, right now!! (punctuation doesn't count)  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -71,14 +67,12 @@
          <info>Name: Attach. Nickname: Atta-chan. He's extremely quick and can sneak into any place he wants. He is called "Flaming Atta-chan" because he yells "Fire!!" whenever he hits the shutter. Head of the Marine Photography Department "Flaming Atta-chan". Attach: FIRE!! *FLASH!*</info>
       </qna>
    </chapter>
-   <chapter num="219"
-            page="66">
+   <chapter num="219" page="66">
       <qna>
          <info>No questions, just a little game made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="221"
-            page="106">
+   <chapter num="221" page="106">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -111,14 +105,12 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="222"
-            page="126">
+   <chapter num="222" page="126">
       <qna>
          <info>Another game made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="223"
-            page="146">
+   <chapter num="223" page="146">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -151,8 +143,7 @@
          <info>... BUT I GOT YOUR LETTER. (DUN-DUN-DUUNNN!) Umm. There are two adresses you can use. You can use the address for the editors' offices as written in Jump Magazine, or the special mailbox for the SBS questions only. Either way, it all comes right to me so don't worry.</info>
       </qna>
    </chapter>
-   <chapter num="224"
-            page="166">
+   <chapter num="224" page="166">
       <qna>
          <d>
             <speaker>D</speaker>

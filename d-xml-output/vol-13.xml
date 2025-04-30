@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="13"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="109"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="13" ixml:state="ambiguous">
+   <chapter num="109" page="26">
       <d>
          <speaker>O</speaker>
          <say> Before I start the SBS, I'd like to introduce a letter that has come in to save me from a certain group that has been ruining this corner. I'm so happy.
@@ -41,8 +38,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="111"
-            page="64">
+   <chapter num="111" page="64">
       <d>
          <speaker>D</speaker>
          <say> We've gotten a nomination for Oda-kun to be the voice actor for Pandaman. Anyone who disagrees, please raise your hand. By the School Grade Committee Chairman.
@@ -96,8 +92,7 @@
       </d>
       <info>There are two types of blade edges: suguha or "straight edge"(2), and midareba or "unravelled edge"(3). These are types of patterns you can make on the blades when you forge them. But since unravelled edges come in various forms, they turn into an "unravelled edge with a ___". [Insert image of swords]</info>
    </chapter>
-   <chapter num="113"
-            page="104">
+   <chapter num="113" page="104">
       <d>
          <speaker>D</speaker>
          <say> Are those glasses that Usopp wears when he fights?

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <volume num="20">
-   <chapter num="177"
-            page="26">
+   <chapter num="177" page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -30,7 +29,7 @@
             <say> Oda-sensei, out of the 5 crew members <char name="Luffy">Luffy,</char>
                <char name="Zoro">Zoro,</char>
                <char name="Usopp">Usopp,</char>
-               <char name="Nami">Nami,</char> and Sanji, what animals do you think they most resemble?  </say>
+               <char name="Nami">Nami,</char> and <char name="Sanji">Sanji,</char> what animals do you think they most resemble?  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -40,18 +39,16 @@
          <info>Zoro is... a shark. Usopp, an armadillo. Nami's a cat. And Sanji's a duck. But there's one thing I AM confident about. I THINK CHOPPER IS A REINDEER. (DOOOON)</info>
       </qna>
    </chapter>
-   <chapter num="178"
-            page="46">
+   <chapter num="178" page="46">
       <qna>
          <info>No questions. Just a game made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="179"
-            page="66">
+   <chapter num="179" page="66">
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Why does Buggy not bleed when he splits his body up?  </say>
+            <say> Why does <char name="Buggy">Buggy</char> not bleed when he splits his body up?  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -100,8 +97,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="180"
-            page="86">
+   <chapter num="180" page="86">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -123,8 +119,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="181"
-            page="106">
+   <chapter num="181" page="106">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -147,8 +142,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="183"
-            page="146">
+   <chapter num="183" page="146">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -180,8 +174,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="184"
-            page="165">
+   <chapter num="184" page="165">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -205,11 +198,12 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Oda-chan!! Today is the day for you to answer this!! What about Sanji's left eye?!  </say>
+            <say> Oda-chan!! Today is the day for you to answer this!! What about <char name="Sanji">Sanji's</char> left eye?!  </say>
          </d>
          <d>
             <speaker>O</speaker>
-            <say> There it is... again. I get a lot of these. So many, in fact, that I usually just ignored them... all right. I will finally answer one of One Piece's 7 great mysteries, "Sanji's Left Eye"!! Come on out, Sanji!!  </say>
+            <say> There it is... again. I get a lot of these. So many, in fact, that I usually just ignored them... all right. I will finally answer one of One Piece's 7 great mysteries, <char name="Sanji">"Sanji's</char> Left Eye"!! Come on out, <char name="Sanji">Sanji!!</char>
+            </say>
          </d>
          <info>Sanji: Hey. You called? What? You want me to show you my left eye?! THAT'S what you called me for? Honestly... fine, fine. You wanna see it? There you go, take a good look. See?</info>
          <d>

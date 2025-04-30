@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="21"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="187"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="21" ixml:state="ambiguous">
+   <chapter num="187" page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -43,8 +40,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="188"
-            page="46">
+   <chapter num="188" page="46">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -71,14 +67,12 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="189"
-            page="66">
+   <chapter num="189" page="66">
       <qna>
          <info>No questions, just a little game made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="190"
-            page="86">
+   <chapter num="190" page="86">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -104,8 +98,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="191"
-            page="106">
+   <chapter num="191" page="106">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -132,14 +125,12 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="192"
-            page="126">
+   <chapter num="192" page="126">
       <qna>
          <info>Another game made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="194"
-            page="164">
+   <chapter num="194" page="164">
       <qna>
          <d>
             <speaker>O</speaker>

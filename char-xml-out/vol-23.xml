@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="23"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="206"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="23" ixml:state="ambiguous">
+   <chapter num="206" page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -28,12 +25,11 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="207"
-            page="46">
+   <chapter num="207" page="46">
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> APOLOGIZE, ODA-CCHI! Apologize like you're "Super duper damn sorry!" For your marimo shenanigans! My name's Mariko so ever since about the 6th grade, everyone's been calling me as "Marimo". But then you just had to go and make up stuff like "Kuromarimo" and "Marimo Head"!! And once I entered middle school (during Chopper's arc), people started saying, "Hey Kuromarimo-mossa" WHEN TALKING TO ME. What're you gonna do about it?! My life is ruined!  </say>
+            <say> APOLOGIZE, ODA-CCHI! Apologize like you're "Super duper damn sorry!" For your marimo shenanigans! My name's Mariko so ever since about the 6th grade, everyone's been calling me as "Marimo". But then you just had to go and make up stuff like "Kuromarimo" and "Marimo Head"!! And once I entered middle school (during <char name="Chopper">Chopper's</char> arc), people started saying, "Hey Kuromarimo-mossa" WHEN TALKING TO ME. What're you gonna do about it?! My life is ruined!  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -72,8 +68,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="208"
-            page="66">
+   <chapter num="208" page="66">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -88,7 +83,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> In an SBS in Volume 20, you said "Sanji's left eye is one of the 7 great mysteries". So what the hell are the other 6?! I'll bust a SHAKUSHI on you if you don't tell me!!!!  </say>
+            <say> In an SBS in Volume 20, you said <char name="Sanji">"Sanji's</char> left eye is one of the 7 great mysteries". So what the hell are the other 6?! I'll bust a SHAKUSHI on you if you don't tell me!!!!  </say>
          </d>
          <info>-by Obvious Fool-</info>
          <d>
@@ -100,7 +95,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> In Volume 20 of One Piece, I was surprised to learn that OP is also sold in Taiwan. And also the kanji-characters they chose to write <char name="Nami">"Nami".</char> So what are the kanji for the other crew members and Vivi in Taiwan?  </say>
+            <say> In Volume 20 of One Piece, I was surprised to learn that OP is also sold in Taiwan. And also the kanji-characters they chose to write <char name="Nami">"Nami".</char> So what are the kanji for the other crew members and <char name="Vivi">Vivi</char> in Taiwan?  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -108,14 +103,12 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="209"
-            page="86">
+   <chapter num="209" page="86">
       <qna>
          <info>No questions, just two little games made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="210"
-            page="104">
+   <chapter num="210" page="104">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -130,12 +123,12 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Wassssup, Oda-sensei?! I have a question about Vivi and <char name="Zoro">Zoro</char> (doooon)!! Why does Vivi call <char name="Zoro">Zoro</char> Mr. Bushido?! (dogooon) I'm super super SUUUPER interested. Pleeeeeaaaaseeeee tell me! Bye!! See you in a million years!!  </say>
+            <say> Wassssup, Oda-sensei?! I have a question about <char name="Vivi">Vivi</char> and <char name="Zoro">Zoro</char> (doooon)!! Why does <char name="Vivi">Vivi</char> call <char name="Zoro">Zoro</char> Mr. Bushido?! (dogooon) I'm super super SUUUPER interested. Pleeeeeaaaaseeeee tell me! Bye!! See you in a million years!!  </say>
          </d>
          <info>-by Potato-kun-</info>
          <d>
             <speaker>O</speaker>
-            <say> You know how if you start calling a friend by a funny nickname, you can't really go back? It's the same case here. In fact, if she were to suddenly start calling him <char name="Zoro">Zoro-san,</char> it would seem strange. I think Vivi will call <char name="Zoro">Zoro</char> Mr. Bushido for the rest of her life.  </say>
+            <say> You know how if you start calling a friend by a funny nickname, you can't really go back? It's the same case here. In fact, if she were to suddenly start calling him <char name="Zoro">Zoro-san,</char> it would seem strange. I think <char name="Vivi">Vivi</char> will call <char name="Zoro">Zoro</char> Mr. Bushido for the rest of her life.  </say>
          </d>
       </qna>
       <qna>
@@ -150,14 +143,12 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="211"
-            page="124">
+   <chapter num="211" page="124">
       <qna>
          <info>Another game made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="213"
-            page="168">
+   <chapter num="213" page="168">
       <qna>
          <d>
             <speaker>D</speaker>

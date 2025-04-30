@@ -64,6 +64,14 @@
     </xsl:template>
     
     
+    <xsl:template match="char">
+        <div class= "char" title="{@name}">
+            
+            <xsl:apply-templates/>
+        </div>
+            
+        
+    </xsl:template>
     
     
 

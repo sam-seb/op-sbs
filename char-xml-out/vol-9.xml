@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <volume num="9">
-   <chapter num="72"
-            page="26">
+   <chapter num="72" page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -15,7 +14,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> To Oda-Sensei, I always(x2) have fun reading One Piece! By the way, in Volume 7 p. 18, third panel, the knife Sanji's holding appears to have some writing on it, but it's so small, I can't tell what it is. What's written on it? Please tell me!!  </say>
+            <say> To Oda-Sensei, I always(x2) have fun reading One Piece! By the way, in Volume 7 p. 18, third panel, the knife <char name="Sanji">Sanji's</char> holding appears to have some writing on it, but it's so small, I can't tell what it is. What's written on it? Please tell me!!  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -45,7 +44,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> I heard from somewhere that Sanji's afternoon snack is Castella (sponge cake). Is that true? (After all, "Sanji no Oyatsu wa Bunmeido")  </say>
+            <say> I heard from somewhere that <char name="Sanji">Sanji's</char> afternoon snack is Castella (sponge cake). Is that true? (After all, <char name="Sanji">"Sanji</char> no Oyatsu wa Bunmeido")  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -54,8 +53,7 @@
          <info>(This is a joke based on a Japanese commercial for Bunmeido Castella cake. The catchphrase means "Bunmeido is the 3 o'clock snack", but 3 o'clock is "Sanji" in Japanese, so it can also sound like "Sanji's snack is Bunmeido").</info>
       </qna>
    </chapter>
-   <chapter num="73"
-            page="46">
+   <chapter num="73" page="46">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -89,8 +87,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="74"
-            page="66">
+   <chapter num="74" page="66">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -114,7 +111,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> How many Debu Debus is <char name="Alvida">Alvida's</char> Debu-sa (Fatness)? *WHIRLLLLL* CRACK! AAAAAH!  </say>
+            <say> How many Debu Debus is Alvida's Debu-sa (Fatness)? *WHIRLLLLL* CRACK! AAAAAH!  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -133,8 +130,7 @@
          <info>[flintlock infobox goes here]</info>
       </qna>
    </chapter>
-   <chapter num="75"
-            page="86">
+   <chapter num="75" page="86">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -177,8 +173,7 @@
          <info>( "Golden balls" and "Testicles" are pronounced the same ("Kintama") in the Japanese language)</info>
       </qna>
    </chapter>
-   <chapter num="76"
-            page="106">
+   <chapter num="76" page="106">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -194,7 +189,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> In an SBS in Volume 7, you said Sanji-san's age was 19, but after discussing with my friend, we arrived at the conclusion that this was a lie. How old is he, really?  </say>
+            <say> In an SBS in Volume 7, you said <char name="Sanji">Sanji-san's</char> age was 19, but after discussing with my friend, we arrived at the conclusion that this was a lie. How old is he, really?  </say>
          </d>
          <d>
             <speaker>O</speaker>

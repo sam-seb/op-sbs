@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="18"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="156"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="18" ixml:state="ambiguous">
+   <chapter num="156" page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -45,8 +42,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="158"
-            page="66">
+   <chapter num="158" page="66">
       <qna>
          <info>[Insert image of Chessmarimo]</info>
          <d>
@@ -57,7 +53,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> I have a question, Ei-chan... on panel 6 of Volume 17, page 176, what is Chopper doing? It just looks like the "Hen na ojisan" to me!! Is that right? Please tell me!!  </say>
+            <say> I have a question, Ei-chan... on panel 6 of Volume 17, page 176, what is <char name="Chopper">Chopper</char> doing? It just looks like the "Hen na ojisan" to me!! Is that right? Please tell me!!  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -68,16 +64,15 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Hey -&gt; Oda-sense -&gt; One Piece -&gt; is just sooo cool!! When I was -&gt; in class -&gt; I accidentally drew BUGGY -&gt; in my notebook! I have -&gt; "Accidentally Draw Buggy" disease! Oh yeah -&gt; when Shanks and Buggy were young, they were arguing about which is colder, the North Pole or the South Pole -&gt; Which one's right? Okay, goodbye.  </say>
+            <say> Hey -&gt; Oda-sense -&gt; One Piece -&gt; is just sooo cool!! When I was -&gt; in class -&gt; I accidentally drew BUGGY -&gt; in my notebook! I have -&gt; "Accidentally Draw <char name="Buggy">Buggy"</char> disease! Oh yeah -&gt; when <char name="Shanks">Shanks</char> and <char name="Buggy">Buggy</char> were young, they were arguing about which is colder, the North Pole or the South Pole -&gt; Which one's right? Okay, goodbye.  </say>
          </d>
          <d>
             <speaker>O</speaker>
-            <say> Ahh, the flashback from Volume 3. The answer is, the South Pole. The Arctic is not a continent, it's just a mass of ice. Land is colder than water, so the Antarctic is correct. So Shanks was right. However, the South Pole is not the coldest place in the world.  </say>
+            <say> Ahh, the flashback from Volume 3. The answer is, the South Pole. The Arctic is not a continent, it's just a mass of ice. Land is colder than water, so the Antarctic is correct. So <char name="Shanks">Shanks</char> was right. However, the South Pole is not the coldest place in the world.  </say>
          </d>
       </qna>
    </chapter>
-   <chapter num="161"
-            page="126">
+   <chapter num="161" page="126">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -130,8 +125,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="163"
-            page="166">
+   <chapter num="163" page="166">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -156,7 +150,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Good evening. This is a question for Oda-sensei. "Möwe" (Seagull) on <char name="Morgan">Morgan's</char> chin, and "Krieg" (battle). German seems to show up a lot in One Piece. But do actual pirates have much to do with Germany?  </say>
+            <say> Good evening. This is a question for Oda-sensei. "Möwe" (Seagull) on Morgan's chin, and "Krieg" (battle). German seems to show up a lot in One Piece. But do actual pirates have much to do with Germany?  </say>
          </d>
          <d>
             <speaker>O</speaker>

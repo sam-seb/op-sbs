@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="25"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="227"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="25" ixml:state="ambiguous">
+   <chapter num="227" page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -28,7 +25,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Hello! Odacchi!! Do you think that February 6 would be a good day for Nico Robin's birthday?  </say>
+            <say> Hello! Odacchi!! Do you think that February 6 would be a good day for Nico <char name="Robin">Robin's</char> birthday?  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -36,8 +33,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="228"
-            page="46">
+   <chapter num="228" page="46">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -70,14 +66,12 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="229"
-            page="66">
+   <chapter num="229" page="66">
       <qna>
          <info>No questions. Just a little game made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="230"
-            page="86">
+   <chapter num="230" page="86">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -110,14 +104,12 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="231"
-            page="106">
+   <chapter num="231" page="106">
       <qna>
          <info>Another game made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="232"
-            page="126">
+   <chapter num="232" page="126">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -142,14 +134,12 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="233"
-            page="146">
+   <chapter num="233" page="146">
       <qna>
          <info>Yet another game made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="234"
-            page="166">
+   <chapter num="234" page="166">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -163,7 +153,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Oda-sensei, I saw the movie "Chopper's Kingdom on the Island of Strange Animals". It was really really fun. The movie that was shown with it, "Dream Soccer King" had a character named "Odacchi" which I was very surprised to see. Oda-sensei, DOES YOUR FACE REALLY LOOK LIKE THAT?  </say>
+            <say> Oda-sensei, I saw the movie <char name="Chopper">"Chopper's</char> Kingdom on the Island of Strange Animals". It was really really fun. The movie that was shown with it, "Dream Soccer King" had a character named "Odacchi" which I was very surprised to see. Oda-sensei, DOES YOUR FACE REALLY LOOK LIKE THAT?  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -173,11 +163,11 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Hello, Oda-sensei. Reading the latest One Piece, I've just noticed that Sanji has leg hair. And I was thinking, if he's blond, the leg hair shouldn't stand out so much. I am a huge fan of Sanji, so I must say that I don't like the fact that he has leg hair. Oda-sensei, I beg you to do something about this (from the bottom of my heart).  </say>
+            <say> Hello, Oda-sensei. Reading the latest One Piece, I've just noticed that <char name="Sanji">Sanji</char> has leg hair. And I was thinking, if he's blond, the leg hair shouldn't stand out so much. I am a huge fan of <char name="Sanji">Sanji,</char> so I must say that I don't like the fact that he has leg hair. Oda-sensei, I beg you to do something about this (from the bottom of my heart).  </say>
          </d>
          <d>
             <speaker>O</speaker>
-            <say> But he's fuzzy. You know, Chopper's fuzzy too! Alright, it's time to end the SBS! See you next volume!!  </say>
+            <say> But he's fuzzy. You know, <char name="Chopper">Chopper's</char> fuzzy too! Alright, it's time to end the SBS! See you next volume!!  </say>
          </d>
       </qna>
    </chapter>

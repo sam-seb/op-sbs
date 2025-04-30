@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="19"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="167"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="19" ixml:state="ambiguous">
+   <chapter num="167" page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -28,11 +25,12 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> I've been wondering for a while now, how old are Vivi and Chopper? Vivi looks to be about the same age as the rest, but Chopper just seems like a kid! Please tell me their ages!  </say>
+            <say> I've been wondering for a while now, how old are <char name="Vivi">Vivi</char> and <char name="Chopper">Chopper?</char>
+               <char name="Vivi">Vivi</char> looks to be about the same age as the rest, but <char name="Chopper">Chopper</char> just seems like a kid! Please tell me their ages!  </say>
          </d>
          <d>
             <speaker>O</speaker>
-            <say> First, Vivi is 16. Chopper is a human reindeer, so as a human he would be 15. Yeah. That sounds about right.  </say>
+            <say> First, <char name="Vivi">Vivi</char> is 16. <char name="Chopper">Chopper</char> is a human reindeer, so as a human he would be 15. Yeah. That sounds about right.  </say>
          </d>
       </qna>
       <qna>
@@ -46,8 +44,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="168"
-            page="46">
+   <chapter num="168" page="46">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -71,22 +68,20 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Hellllo! Aaah, my nose won't stop running. Aaah, it finally stopped. Oda-san, I've been wondering about something. Something about Blue-Nosed Chopper. What does the X-mark on his hat mean? Aaaah, my nose is running again.  </say>
+            <say> Hellllo! Aaah, my nose won't stop running. Aaah, it finally stopped. Oda-san, I've been wondering about something. Something about Blue-Nosed <char name="Chopper">Chopper.</char> What does the X-mark on his hat mean? Aaaah, my nose is running again.  </say>
          </d>
          <d>
             <speaker>O</speaker>
-            <say> Okay, then. So about your running nose... Whoops, not that. I mean about the X-mark on Chopper's hat. It's actually the same as that thing. You know, the cross mark you see in hospitals. It's just tilted diagonally. Oh, and I don't think many people noticed this, but Hiriluk's hair was also the same shape. The shape of a hospital cross.  </say>
+            <say> Okay, then. So about your running nose... Whoops, not that. I mean about the X-mark on <char name="Chopper">Chopper's</char> hat. It's actually the same as that thing. You know, the cross mark you see in hospitals. It's just tilted diagonally. Oh, and I don't think many people noticed this, but Hiriluk's hair was also the same shape. The shape of a hospital cross.  </say>
          </d>
       </qna>
    </chapter>
-   <chapter num="169"
-            page="66">
+   <chapter num="169" page="66">
       <qna>
          <info>No questions. Just a little game made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="170"
-            page="86">
+   <chapter num="170" page="86">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -118,14 +113,12 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="172"
-            page="126">
+   <chapter num="172" page="126">
       <qna>
          <info>Another game made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="173"
-            page="146">
+   <chapter num="173" page="146">
       <qna>
          <info>[insert image of halfboiled]</info>
       </qna>
@@ -155,8 +148,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="175"
-            page="186">
+   <chapter num="175" page="186">
       <qna>
          <d>
             <speaker>D</speaker>

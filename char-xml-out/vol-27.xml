@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="27"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="247"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="27" ixml:state="ambiguous">
+   <chapter num="247" page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -29,7 +26,8 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> I want to say this to Sanji! Why do you use "san" for <char name="Nami">Nami,</char> who's younger, and "chan" for Nico Robin, who's older? Isn't it the opposite normally? Hey Sanji-kun, that's rude for Robin-chan!  </say>
+            <say> I want to say this to <char name="Sanji">Sanji!</char> Why do you use "san" for <char name="Nami">Nami,</char> who's younger, and "chan" for Nico <char name="Robin">Robin,</char> who's older? Isn't it the opposite normally? Hey <char name="Sanji">Sanji-kun,</char> that's rude for <char name="Robin">Robin-chan!</char>
+            </say>
          </d>
          <info>-By Girl same age as Sanji</info>
          <d>
@@ -38,8 +36,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="248"
-            page="46">
+   <chapter num="248" page="46">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -67,8 +64,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="249"
-            page="66">
+   <chapter num="249" page="66">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -91,15 +87,15 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="250"
-            page="86">
+   <chapter num="250" page="86">
       <qna>
          <info>Mohji: GREAT, AWESOME!! SHALL WE HAVE A PARTY, CAPTAIN?!! Buggy: YOU MEAN WE AREN'T NOW?!!</info>
       </qna>
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Buggy says "Yaraideka!" before a feast, but what exactly does it mean? I've always thought that was a typo, but my mother told me that it means "let's have a feast", and I was convinced. Is it some kind of a dialect?  </say>
+            <say>
+               <char name="Buggy">Buggy</char> says "Yaraideka!" before a feast, but what exactly does it mean? I've always thought that was a typo, but my mother told me that it means "let's have a feast", and I was convinced. Is it some kind of a dialect?  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -109,16 +105,15 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Hi, Odacchi!! I heard from a friend, but apparently the "Sokotsuya" (Careless person) that does Karoo's voice is actually Hirata Hiroaki, who does Sanji. Is it true?!  </say>
+            <say> Hi, Odacchi!! I heard from a friend, but apparently the "Sokotsuya" (Careless person) that does Karoo's voice is actually Hirata Hiroaki, who does <char name="Sanji">Sanji.</char> Is it true?!  </say>
          </d>
          <d>
             <speaker>O</speaker>
-            <say> "Kueee!!". Yes. That's Hirata-san aka Sanji doing it. And Matsuge from Alabasta's being done by Yamaguchi aka <char name="Usopp">Usopp.</char> In the anime, say, if Sanji or <char name="Zoro">Zoro</char> don't appear in the episode, then the regulars don't have lines. What they do when that happens is they play around. *laughs* Like guessing animal voices. But they don't use their real names in the credits, so they just use "Sokotsuya" ("Rude Guy") like that. But listen carefully to the animals. If the voice actor's name is "Sokotsuya", it's one of the Straw Hats doing it.  </say>
+            <say> "Kueee!!". Yes. That's Hirata-san aka <char name="Sanji">Sanji</char> doing it. And Matsuge from Alabasta's being done by Yamaguchi aka <char name="Usopp">Usopp.</char> In the anime, say, if <char name="Sanji">Sanji</char> or <char name="Zoro">Zoro</char> don't appear in the episode, then the regulars don't have lines. What they do when that happens is they play around. *laughs* Like guessing animal voices. But they don't use their real names in the credits, so they just use "Sokotsuya" ("Rude Guy") like that. But listen carefully to the animals. If the voice actor's name is "Sokotsuya", it's one of the Straw Hats doing it.  </say>
          </d>
       </qna>
    </chapter>
-   <chapter num="251"
-            page="106">
+   <chapter num="251" page="106">
       <qna>
          <info>Cricket: "PASSION"!!!! (Romance)</info>
       </qna>
@@ -145,8 +140,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="252"
-            page="126">
+   <chapter num="252" page="126">
       <qna>
          <d>
             <speaker>D</speaker>

@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="7"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="54"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="7" ixml:state="ambiguous">
+   <chapter num="54" page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -17,7 +14,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Does Shanks like me?  </say>
+            <say> Does <char name="Shanks">Shanks</char> like me?  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -47,22 +44,22 @@
          <info>[Minatomo image goes here] (Text: "Don't joke around, punk!! Quit lookin' at me~").</info>
       </qna>
    </chapter>
-   <chapter num="55"
-            page="46">
+   <chapter num="55" page="46">
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Why does Sanji-san's eyebrow curl up at the end? Is it for fashion? Make it clear!!  </say>
+            <say> Why does <char name="Sanji">Sanji-san's</char> eyebrow curl up at the end? Is it for fashion? Make it clear!!  </say>
          </d>
          <d>
             <speaker>O</speaker>
-            <say> Hey!! You there, sit down!! Now listen!! Everyone lives in circles!! The Sun, the Moon, and the Earth all spin in circles!! And!! If the Earth suddenly stopped spinning!! The planet would be covered in tidal waves!! It would be terrible!! Now remember that Sanji's eyebrow channels that same powerful circular energy!! Reflect upon this!! You may go!!  </say>
+            <say> Hey!! You there, sit down!! Now listen!! Everyone lives in circles!! The Sun, the Moon, and the Earth all spin in circles!! And!! If the Earth suddenly stopped spinning!! The planet would be covered in tidal waves!! It would be terrible!! Now remember that <char name="Sanji">Sanji's</char> eyebrow channels that same powerful circular energy!! Reflect upon this!! You may go!!  </say>
          </d>
       </qna>
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> A question. How old is Sanji-san?  </say>
+            <say> A question. How old is <char name="Sanji">Sanji-san?</char>
+            </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -77,7 +74,7 @@
                <char name="Nami">Nami,</char>
                <char name="Nami">Nami</char>
                <char name="Nami">Nami,</char>
-               <char name="Nami">Nami,</char> I love <char name="Nami">Nami.</char> I won't give her over to that Sanji guy!! Therefore, I propose a duel, for <char name="Nami">Nami.</char> Tomorrow, at 3pm, on the Red Line. Be there! Oda-sensei, is this okay?  </say>
+               <char name="Nami">Nami,</char> I love <char name="Nami">Nami.</char> I won't give her over to that <char name="Sanji">Sanji</char> guy!! Therefore, I propose a duel, for <char name="Nami">Nami.</char> Tomorrow, at 3pm, on the Red Line. Be there! Oda-sensei, is this okay?  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -95,14 +92,12 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="56"
-            page="68">
+   <chapter num="56" page="68">
       <qna>
          <info>No SBS. Special feature on Pandaman.</info>
       </qna>
    </chapter>
-   <chapter num="57"
-            page="88">
+   <chapter num="57" page="88">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -126,7 +121,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> If <char name="Luffy">Luffy</char> is 7,200 Funky Gomu Gomus, does that mean Sanji is about 8,500 Funky Ero Eros?  </say>
+            <say> If <char name="Luffy">Luffy</char> is 7,200 Funky Gomu Gomus, does that mean <char name="Sanji">Sanji</char> is about 8,500 Funky Ero Eros?  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -154,8 +149,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="58"
-            page="108">
+   <chapter num="58" page="108">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -201,7 +195,7 @@
       <qna>
          <d>
             <speaker>D</speaker>
-            <say> Only the upper half of Buggy's body can fly around (or float, or whatever), right? So he should be able to send only his top half to the Grand Line through the air. Why doesn't he do that?  </say>
+            <say> Only the upper half of <char name="Buggy">Buggy's</char> body can fly around (or float, or whatever), right? So he should be able to send only his top half to the Grand Line through the air. Why doesn't he do that?  </say>
          </d>
          <d>
             <speaker>O</speaker>
@@ -209,8 +203,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="59"
-            page="128">
+   <chapter num="59" page="128">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -267,8 +260,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="60"
-            page="148">
+   <chapter num="60" page="148">
       <qna>
          <info>No SBS. Results of the First One Piece Character Poll.</info>
       </qna>
