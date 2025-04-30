@@ -13,6 +13,7 @@
     <!-- XML to XML Identity Transform to mark character names from a series of names stored in a variable. -->
 
     <xsl:variable name="charName" as="xs:string+" select="'Luffy', 'Zoro', 'Nami', 'Usopp', 'Sanji', 'Chopper', 'Robin', 'Vivi', 'Shanks', 'Buggy'"/>
+
 <xsl:template match="say">
    <say> <xsl:variable name="tokenizedText" as="xs:string+" select="text() ! tokenize(., '\s+')"/>
    
