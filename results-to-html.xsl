@@ -46,7 +46,7 @@
                     </table>
                     
                     <div class="svg">
-                        <svg xmlns="http://www.w3.org/2000/svg">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700">
                             
                             <!-- ADAPT THE CODE ABOVE TO OUTPUT A BEAUTIFUL SVG PLOT. USE THE SAME FOR-EACH AND SORT.
                             
@@ -61,6 +61,12 @@
                                 <!-- Make an X and Y axis first. 
                                 Then, apply xsl:for-each above to output the bars for each character.
                                 -->
+                                <!--AXES-->
+                                <line x1="0" y1="600" x2="0" y2="00" style="stroke:black;stroke-width:2" />
+                                <line x1="0" y1="600" x2="600" y2="1000" style="stroke:black;stroke-width:2" />
+                                
+                                
+                                <line x1="0" y1="ySpacer" x2="xSpacer" y2="ySpacer"/>
                                 
                                 
                             </g> 
