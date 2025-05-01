@@ -1,54 +1,63 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Final Results</title>
-        <style>
-        body {
-            background-color: #f0f8ff; 
-            color: #333333;
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            padding: 20px;
-        }
-        header img {
-            width: 200px;
-        }
-        main {
-            padding: 20px;
-        }
-        div.flex {
-        display:flex;
-        width:80%;
-        }
-        figure.svg {
-        flex:2;
-        }
-        figure.svg img {
-        width:100%;
-/*        max-width:1500px;*/
-        }
-    </style>
-    </head>
-    <body>
-        <nav>
-            <a href="index.html">Home Page</a>
-            <a href="volume-select.html">Volume Select</a>
-            <a href="results.html">Character Tally</a>
-        </nav>
-        <header>
-            <img src="images/SBS_Vol_4_Mikio_Itoo_Manga_Infobox.webp" alt="Placeholder Image">
-        </header>
-        <main>
-            <h1>Final Results</h1>
-            <p>This page would tally the results of how many questions each character in One Piece got from the audience (With the world and Oda each getting their own catagory). We could probably use SVG to visualize the final results with images representing each catagory. As seen below:</p>
-<div class="flex">
-    <p>sample text</p>
-    <figure class="svg"><img src="images/final-results.svg" alt="Total number of questions asked across the following catagories"/></figure></div>
-        </main>
-    </body>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+   <head>
+      <meta charset="UTF-8"/>
+      <title>Final Results</title>
+      <link rel="stylesheet" href="styles.css"/>
+   </head>
+   <body>
+      <nav><a href="index.html">Home Page</a><a href="volume-select.html">Volume Select</a><a href="results.html">Character Tally</a></nav>
+      <main>
+         <h1>Findings</h1>
+         <p>Here we share how often each of ten significant characters from <cite>One Piece</cite> 
+            is mentioned across all SBS sections in the volumes we studied in this project.</p>
+         <table>
+            <tr>
+               <th>Character Name</th>
+               <th>Count of Mentions</th>
+            </tr>
+            <tr>
+               <td>Luffy</td>
+               <td>47</td>
+            </tr>
+            <tr>
+               <td>Zoro</td>
+               <td>37</td>
+            </tr>
+            <tr>
+               <td>Sanji</td>
+               <td>36</td>
+            </tr>
+            <tr>
+               <td>Nami</td>
+               <td>36</td>
+            </tr>
+            <tr>
+               <td>Usopp</td>
+               <td>18</td>
+            </tr>
+            <tr>
+               <td>Buggy</td>
+               <td>16</td>
+            </tr>
+            <tr>
+               <td>Chopper</td>
+               <td>14</td>
+            </tr>
+            <tr>
+               <td>Vivi</td>
+               <td>14</td>
+            </tr>
+            <tr>
+               <td>Shanks</td>
+               <td>12</td>
+            </tr>
+            <tr>
+               <td>Robin</td>
+               <td>4</td>
+            </tr>
+         </table>
+         <div class="svg"><svg xmlns="http://www.w3.org/2000/svg">
+               <g transform="translate(50, 600)"></g></svg></div>
+      </main>
+   </body>
 </html>

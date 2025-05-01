@@ -31,7 +31,8 @@
                         <th>Count of Mentions</th>
                     </tr>
                     
-                <xsl:for-each select="descendant::char/@name ! normalize-space() => distinct-values()">    
+                <xsl:for-each select="descendant::char/@name ! normalize-space() => distinct-values()">   
+                    <xsl:sort select="$currVol//char[@name ! normalize-space() = current()] => count()" order="descending"/>
                     <tr>
                         <td><xsl:value-of select="current()"/></td>
                         <td><xsl:value-of select="$currVol//char[@name ! normalize-space() = current()] => count()"/></td>
