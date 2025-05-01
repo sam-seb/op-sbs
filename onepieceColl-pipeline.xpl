@@ -69,7 +69,7 @@
             <p:with-input port="stylesheet" href="op-html.xsl"/>
         </p:xslt>
         <p:identity message="Running XSLT over the char-tagged XML to output HTML for the website."/>
-        <p:store name="html-out" href="../docs/sbs-volumes/{$filename}.html"/>
+        <p:store name="html-out" href="docs/sbs-volumes/{$filename}.html"/>
         <p:identity message="Finished running XSLT to output HTML for the website!"/>
 
         <!-- 2025-04-29 ebb: We'll process NLP text output in the LAST stage. 
