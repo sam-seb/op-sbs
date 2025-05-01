@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="750" viewBox="0 0 1500 750" preserveAspectRatio="xMinYMin meet">
+    
+    <desc> <!-- Rectangle <rect>
+            Circle <circle>
+            Ellipse <ellipse>
+            Line <line>
+            Polyline <polyline>
+            Polygon <polygon>
+            Path <path>
+            rectangle <rect> height, width, x, y, rx, ry, stroke-width:"num";stroke:"color"-->
+        NAMES TO ACCOUNT FOR
+        Luffy, Zoro, Nami, Usopp, Sanji, Chopper, Robin, Going Merry,
+        Oda, Joke, World.</desc>
+    
+    <g alignment-baseline="baseline">
+        <text x="250" y="50" fill="purple" style="font-family:castellar;font-size:35px;" >The Total Results of the SBS/"I'm Taking Questions"</text>
+        <text x="550" y="100" fill="purple" style="font-family:castellar;font-size:35px;" >Segments of One Piece</text>
+
+        <line x1="300" y1="600" x2="1200" y2="600" stroke="black" stroke-width="5"></line>
+        <line x1="300" y1="602" x2="300" y2="150" stroke="black" stroke-width="5"></line>
+        
+        <line x1="300" y1="195" x2="1200" y2="195" stroke="black" stroke-width="2" stroke-opacity="0.7"></line>
+        <line x1="300" y1="534" x2="1200" y2="534" stroke="black" stroke-width="2" stroke-opacity="0.7"></line>
+        <line x1="300" y1="499" x2="1200" y2="499" stroke="black" stroke-width="2" stroke-opacity="0.7"></line>
+        
+        
+        <rect width="35" height="404" x="350" y="194" fill="gray"></rect>
+        <rect width="35" height="65" x="425" y="533" fill="red"></rect>
+        <rect width="35" height="100" x="500" y="498" fill="green"></rect>
+        <rect width="35" height="100" x="575" y="498" fill="orange"></rect>
+        <rect width="35" height="100" x="650" y="498" fill="blue"></rect>
+        <rect width="35" height="100" x="725" y="498" fill="yellow"></rect>
+        <rect width="35" height="100" x="800" y="498" fill="brown"></rect>
+        <rect width="35" height="100" x="875" y="498" fill="purple"></rect>
+        <rect width="35" height="100" x="950" y="498" fill="tan"></rect>
+        <rect width="35" height="100" x="1025" y="498" fill="lime"></rect>
+        <rect width="35" height="100" x="1100" y="498" fill="black"></rect>
+        
+        <text x="310" y="620" fill="gray" style="font-family:times-new-roman;font-size:20px;" >Eiichiro Oda</text>
+        <text x="425" y="620" fill="red" style="font-family:times-new-roman;font-size:20px;" >Luffy</text>
+        <text x="500" y="620" fill="green" style="font-family:times-new-roman;font-size:20px;" >Zoro</text>
+        <text x="570" y="620" fill="orange" style="font-family:times-new-roman;font-size:20px;" >Nami</text>
+        <text x="645" y="620" fill="blue" style="font-family:times-new-roman;font-size:20px;" >Usopp</text>
+        <text x="720" y="620" fill="yellow" style="font-family:times-new-roman;font-size:20px;" >Sanji</text>
+        <text x="785" y="620" fill="brown" style="font-family:times-new-roman;font-size:20px;" >Chopper</text>
+        <text x="870" y="620" fill="purple" style="font-family:times-new-roman;font-size:20px;" >Robin</text>
+        <text x="945" y="620" fill="tan" style="font-family:times-new-roman;font-size:20px;" >Going</text>
+        <text x="945" y="640" fill="tan" style="font-family:times-new-roman;font-size:20px;" >Merry</text>
+        <text x="1025" y="620" fill="lime" style="font-family:times-new-roman;font-size:20px;" >Joke</text>
+        <text x="1095" y="620" fill="black" style="font-family:times-new-roman;font-size:20px;" >Other</text>
+    </g>
+    
+</svg>

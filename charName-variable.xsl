@@ -6,19 +6,21 @@
     exclude-result-prefixes="xs math xd"
     version="3.0">
     
+    <!--ebb: Add this output line for pretty-printing. -->
+    <xsl:output method="xml" indent="yes"/>
+    
     <xsl:mode on-no-match="shallow-copy"/>
     <!-- XML to XML Identity Transform to mark character names from a series of names stored in a variable. -->
 
-    <xsl:variable name="charName" as="xs:string+" select="'Morgan', 'Alvida', 'Luffy', 'Zoro', 'Nami', 'Usopp'"/>
-
+    <xsl:variable name="charName" as="xs:string+" select="'Luffy', 'Zoro', 'Nami', 'Usopp', 'Sanji', 'Chopper', 'Robin', 'Vivi', 'Shanks', 'Buggy'"/>
 <xsl:template match="say">
-    <xsl:variable name="tokenizedText" as="xs:string+" select="text() ! tokenize(., '\s+')"/>
+   <say> <xsl:variable name="tokenizedText" as="xs:string+" select="text() ! tokenize(., '\s+')"/>
    
        <xsl:for-each select="$tokenizedText">
         
        <xsl:choose>
            <xsl:when test="for $i in $charName return current()[matches(., $i)]">
-               <span class="char" title="{for $i in $charName return $i[contains(current(), .) ]}"><xsl:value-of select="current()"/></span>
+               <char name="{for $i in $charName return $i[contains(current(), .) ]}"><xsl:value-of select="current()"/></char>
                <xsl:text> </xsl:text>
            </xsl:when>
            <xsl:otherwise>
@@ -28,11 +30,8 @@
        </xsl:choose>
         
     </xsl:for-each>
-    
-    
+
 </xsl:template>
-
-
 
     
 </xsl:stylesheet>
