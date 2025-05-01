@@ -65,10 +65,10 @@
     
     
     <xsl:template match="char">
-        <div class= "char" title="{@name}">
+        <span class= "char" title="{@name}">
             
             <xsl:apply-templates/>
-        </div>
+        </span>
             
         
     </xsl:template>
