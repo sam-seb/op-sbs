@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume xmlns:ixml="http://invisiblexml.org/NS" num="27" ixml:state="ambiguous">
-   <chapter num="247" page="26">
+<volume num="27"
+        ixml:state="ambiguous"
+        xmlns:ixml="http://invisiblexml.org/NS">
+   <chapter num="247"
+            page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -41,7 +44,8 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="248" page="46">
+   <chapter num="248"
+            page="46">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -74,7 +78,8 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="249" page="66">
+   <chapter num="249"
+            page="66">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -101,7 +106,8 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="250" page="86">
+   <chapter num="250"
+            page="86">
       <qna>
          <info>Mohji: GREAT, AWESOME!! SHALL WE HAVE A PARTY, CAPTAIN?!! Buggy: YOU MEAN WE AREN'T NOW?!!</info>
       </qna>
@@ -130,7 +136,8 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="251" page="106">
+   <chapter num="251"
+            page="106">
       <qna>
          <info>Cricket: "PASSION"!!!! (Romance)</info>
       </qna>
@@ -161,7 +168,8 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="252" page="126">
+   <chapter num="252"
+            page="126">
       <qna>
          <d>
             <speaker>D</speaker>

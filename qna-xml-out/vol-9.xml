@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <volume num="9">
-   <chapter num="72" page="26">
+   <chapter num="72"
+            page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -63,7 +64,8 @@
          <info>(This is a joke based on a Japanese commercial for Bunmeido Castella cake. The catchphrase means "Bunmeido is the 3 o'clock snack", but 3 o'clock is "Sanji" in Japanese, so it can also sound like "Sanji's snack is Bunmeido").</info>
       </qna>
    </chapter>
-   <chapter num="73" page="46">
+   <chapter num="73"
+            page="46">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -103,7 +105,8 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="74" page="66">
+   <chapter num="74"
+            page="66">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -154,7 +157,8 @@
          <info>[flintlock infobox goes here]</info>
       </qna>
    </chapter>
-   <chapter num="75" page="86">
+   <chapter num="75"
+            page="86">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -205,7 +209,8 @@
          <info>( "Golden balls" and "Testicles" are pronounced the same ("Kintama") in the Japanese language)</info>
       </qna>
    </chapter>
-   <chapter num="76" page="106">
+   <chapter num="76"
+            page="106">
       <qna>
          <d>
             <speaker>D</speaker>

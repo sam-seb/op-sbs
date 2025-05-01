@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume xmlns:ixml="http://invisiblexml.org/NS" num="23" ixml:state="ambiguous">
-   <chapter num="206" page="26">
+<volume num="23"
+        ixml:state="ambiguous"
+        xmlns:ixml="http://invisiblexml.org/NS">
+   <chapter num="206"
+            page="26">
       <d>
          <speaker>D</speaker>
          <say> Salutations, Oda-sensei. This is my first ever letter, but I'm afraid to say I can't draw, I can't come up with any humorous questions, nor can I ever meer Master Brogy. So please, if you will. Please allow me to at least say the words that everyone longs to say... Ahem.
@@ -25,7 +28,8 @@
 </say>
       </d>
    </chapter>
-   <chapter num="207" page="46">
+   <chapter num="207"
+            page="46">
       <d>
          <speaker>D</speaker>
          <say> APOLOGIZE, ODA-CCHI! Apologize like you're "Super duper damn sorry!" For your marimo shenanigans! My name's Mariko so ever since about the 6th grade, everyone's been calling me as "Marimo". But then you just had to go and make up stuff like "Kuromarimo" and "Marimo Head"!! And once I entered middle school (during Chopper's arc), people started saying, "Hey Kuromarimo-mossa" WHEN TALKING TO ME. What're you gonna do about it?! My life is ruined!
@@ -68,7 +72,8 @@
 </say>
       </d>
    </chapter>
-   <chapter num="208" page="66">
+   <chapter num="208"
+            page="66">
       <d>
          <speaker>D</speaker>
          <say> In the Cover Page Stories, there are "Camie the Mermaid" and "Octopako the Fishwoman". How are the races of mermaids and fish(wo)men related?
@@ -103,10 +108,12 @@
 </say>
       </d>
    </chapter>
-   <chapter num="209" page="86">
+   <chapter num="209"
+            page="86">
       <info>No questions, just two little games made by a reader.</info>
    </chapter>
-   <chapter num="210" page="104">
+   <chapter num="210"
+            page="104">
       <d>
          <speaker>D</speaker>
          <say> Ssseeennseeeeii, wait a minnnnnnnnnuttttte. I... I... If Mr. 7 became Mr. 6, what would happen to his face?
@@ -141,10 +148,12 @@
 </say>
       </d>
    </chapter>
-   <chapter num="211" page="124">
+   <chapter num="211"
+            page="124">
       <info>Another game made by a reader.</info>
    </chapter>
-   <chapter num="213" page="168">
+   <chapter num="213"
+            page="168">
       <d>
          <speaker>D</speaker>
          <say> Oh come on now, Odacchi. You don't even know what the "ran" in gakuran means?? Then I'll explain, just for you! The "ran" in gakuran comes from the esoteric Edo-period term for western clothes, "randa". How about that? Cool, huh? It's not ranpaku (egg white).

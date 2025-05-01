@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume xmlns:ixml="http://invisiblexml.org/NS" num="25" ixml:state="ambiguous">
-   <chapter num="227" page="26">
+<volume num="25"
+        ixml:state="ambiguous"
+        xmlns:ixml="http://invisiblexml.org/NS">
+   <chapter num="227"
+            page="26">
       <d>
          <speaker>D</speaker>
          <say> Boys and girls across the nation, come together! Let's see, who's gonna do the title call today? Aha, how about you? Eiichiro-kun!! Huh? What? You want everyone to say it with you? Okay!! Good idea!! Alright everyone, let's all shout it together on the count of three... two... START THE SBS!! (now everyone got to do it equally!)
@@ -33,7 +36,8 @@
 </say>
       </d>
    </chapter>
-   <chapter num="228" page="46">
+   <chapter num="228"
+            page="46">
       <d>
          <speaker>D</speaker>
          <say> How are ya, Odacchi? I know how much you like getting butt-naked, so this must be a favourite season for you. &lt;3
@@ -66,10 +70,12 @@
 </say>
       </d>
    </chapter>
-   <chapter num="229" page="66">
+   <chapter num="229"
+            page="66">
       <info>No questions. Just a little game made by a reader.</info>
    </chapter>
-   <chapter num="230" page="86">
+   <chapter num="230"
+            page="86">
       <d>
          <speaker>D</speaker>
          <say> Aaah, hello hello, Oda-sensei! Nami says stuff like "Tornado Tempo" a lot with her Clima Tacts, but what the heck does "Tempo" mean? Please tell me!
@@ -102,10 +108,12 @@
 </say>
       </d>
    </chapter>
-   <chapter num="231" page="106">
+   <chapter num="231"
+            page="106">
       <info>Another game made by a reader.</info>
    </chapter>
-   <chapter num="232" page="126">
+   <chapter num="232"
+            page="126">
       <d>
          <speaker>D</speaker>
          <say> Greetings! Why is it that Zoro has his swords held at his right hip when swords are usually worn on the left?
@@ -130,10 +138,12 @@
 </say>
       </d>
    </chapter>
-   <chapter num="233" page="146">
+   <chapter num="233"
+            page="146">
       <info>Yet another game made by a reader.</info>
    </chapter>
-   <chapter num="234" page="166">
+   <chapter num="234"
+            page="166">
       <d>
          <speaker>D</speaker>
          <say> Where is Vira? In Vol. 11, it's having a "coup d'�tat", in chapter 228 it's a "merry town". What's going on?

@@ -11,6 +11,7 @@
     
 
     <xsl:template match="volume">
+        <xsl:variable name="currVol" as="element()" select="current()"/>
         <html>
             <head> 
                 <title>Volume <xsl:value-of select="@num"/></title>
@@ -20,6 +21,24 @@
                 <h1>
                     SBS Volume <xsl:value-of select="@num"/>
                 </h1>
+                
+                <h2>Question Tally</h2>
+                
+                <table>
+                    <tr>
+                        <th>Character Name</th>
+                        <th>Count of Mentions</th>
+                    </tr>
+                    
+                <xsl:for-each select="descendant::char/@name ! normalize-space() => distinct-values()">    
+                    <tr>
+                        <td><xsl:value-of select="current()"/></td>
+                        <td><xsl:value-of select="$currVol//char[@name ! normalize-space() = current()] => count()"/></td>
+                    </tr>
+                </xsl:for-each>
+                    
+                    
+                </table>
                 
                 <xsl:apply-templates select="chapter">
                     <xsl:sort select="chapter/@num"/>

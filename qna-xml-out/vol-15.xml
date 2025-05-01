@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume xmlns:ixml="http://invisiblexml.org/NS" num="15" ixml:state="ambiguous">
-   <chapter num="127" page="26">
+<volume num="15"
+        ixml:state="ambiguous"
+        xmlns:ixml="http://invisiblexml.org/NS">
+   <chapter num="127"
+            page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -28,7 +31,8 @@
          <info>[insert SBS_Vol_15_01] It's a message to all the boys and girls saying to go out on a voyage to heal those three scars!! Right?! No, I'm sorry. I forgot... Okay, everyone!! Get out your pens, it's retouching time! I know I make millions of errors, but this is one that I really can't let slide.</info>
       </qna>
    </chapter>
-   <chapter num="129" page="70">
+   <chapter num="129"
+            page="70">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -43,7 +47,8 @@
          <info>[insert SBS15 2 Sailing Ceremony] Kaya: It's finished! → yah!</info>
       </qna>
    </chapter>
-   <chapter num="130" page="90">
+   <chapter num="130"
+            page="90">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -106,7 +111,8 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="131" page="110">
+   <chapter num="131"
+            page="110">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -144,7 +150,8 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="132" page="130">
+   <chapter num="132"
+            page="130">
       <qna>
          <d>
             <speaker>D</speaker>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume xmlns:ixml="http://invisiblexml.org/NS" num="18" ixml:state="ambiguous">
-   <chapter num="156" page="26">
+<volume num="18"
+        ixml:state="ambiguous"
+        xmlns:ixml="http://invisiblexml.org/NS">
+   <chapter num="156"
+            page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -50,7 +53,8 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="158" page="66">
+   <chapter num="158"
+            page="66">
       <qna>
          <info>[Insert image of Chessmarimo]</info>
          <d>
@@ -85,7 +89,8 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="161" page="126">
+   <chapter num="161"
+            page="126">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -148,7 +153,8 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="163" page="166">
+   <chapter num="163"
+            page="166">
       <qna>
          <d>
             <speaker>D</speaker>

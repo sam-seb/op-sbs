@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume xmlns:ixml="http://invisiblexml.org/NS" num="25" ixml:state="ambiguous">
-   <chapter num="227" page="26">
+<volume num="25"
+        ixml:state="ambiguous"
+        xmlns:ixml="http://invisiblexml.org/NS">
+   <chapter num="227"
+            page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -39,7 +42,8 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="228" page="46">
+   <chapter num="228"
+            page="46">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -78,12 +82,14 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="229" page="66">
+   <chapter num="229"
+            page="66">
       <qna>
          <info>No questions. Just a little game made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="230" page="86">
+   <chapter num="230"
+            page="86">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -122,12 +128,14 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="231" page="106">
+   <chapter num="231"
+            page="106">
       <qna>
          <info>Another game made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="232" page="126">
+   <chapter num="232"
+            page="126">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -156,12 +164,14 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="233" page="146">
+   <chapter num="233"
+            page="146">
       <qna>
          <info>Yet another game made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="234" page="166">
+   <chapter num="234"
+            page="166">
       <qna>
          <d>
             <speaker>D</speaker>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume xmlns:ixml="http://invisiblexml.org/NS" num="19" ixml:state="ambiguous">
-   <chapter num="167" page="26">
+<volume num="19"
+        ixml:state="ambiguous"
+        xmlns:ixml="http://invisiblexml.org/NS">
+   <chapter num="167"
+            page="26">
       <d>
          <speaker>D</speaker>
          <say> Hello, Ei-chan. I think I'm in love with Miss Merry Christmas' way of shortening her comments to say things as quickly as possible. And so, I'd like to start this one like Miss Merry Christmas would. "S...!" (Start the SBS!!)
@@ -43,7 +46,8 @@
 </say>
       </d>
    </chapter>
-   <chapter num="168" page="46">
+   <chapter num="168"
+            page="46">
       <d>
          <speaker>D</speaker>
          <say> I have a question, sensei. How old are Dorry and Brogy?
@@ -75,10 +79,12 @@
 </say>
       </d>
    </chapter>
-   <chapter num="169" page="66">
+   <chapter num="169"
+            page="66">
       <info>No questions. Just a little game made by a reader.</info>
    </chapter>
-   <chapter num="170" page="86">
+   <chapter num="170"
+            page="86">
       <d>
          <speaker>D</speaker>
          <say> Yo, Ei-chan. Got a question. Does that mark Miss Goldenweek draws mean anything? Couldn't she just slap the colors on him? Tell me, man!
@@ -110,10 +116,12 @@
 </say>
       </d>
    </chapter>
-   <chapter num="172" page="126">
+   <chapter num="172"
+            page="126">
       <info>Another game made by a reader.</info>
    </chapter>
-   <chapter num="173" page="146">
+   <chapter num="173"
+            page="146">
       <info>[insert image of halfboiled]</info>
       <d>
          <speaker>D</speaker>
@@ -142,7 +150,8 @@
 </say>
       </d>
    </chapter>
-   <chapter num="175" page="186">
+   <chapter num="175"
+            page="186">
       <d>
          <speaker>D</speaker>
          <say> Hey! Didn' ah see yer fase some'ere's befor? Ain't you dat lil' Eiichiro Oda! Hoooey, yuh done grown up big!! Heh?! Ah look cyute, yah sey? Sheeucks, yore embarasin' me!! Yeh now, I gots some onyins and potatoes, y'all shuld come on bah and help to eat it! 

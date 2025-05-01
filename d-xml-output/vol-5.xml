@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <volume num="5">
-   <chapter num="36" page="28">
+   <chapter num="36"
+            page="28">
       <info>No SBS. Oda gave information about the first OVA.</info>
    </chapter>
-   <chapter num="42" page="148">
+   <chapter num="42"
+            page="148">
       <d>
          <speaker>O</speaker>
          <say> Hello. I might as well start the SBS corner now. Stand! Be careful!! Okay, stay there!!
@@ -31,7 +33,8 @@
       </d>
       <info>That's different.</info>
    </chapter>
-   <chapter num="43" page="168">
+   <chapter num="43"
+            page="168">
       <d>
          <speaker>D</speaker>
          <say> Nice to meet you, Oda-sensei! I love the manga you draw, "Nep Ece"

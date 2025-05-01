@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <volume num="12">
-   <chapter num="100" page="32">
+   <chapter num="100"
+            page="32">
       <d>
          <speaker>D</speaker>
          <say> Timmy Ueda-sama of the SBS Hijacking Group, I beg of you! Please accept me, Martha Shimoda, as your follower. I'll do anything you want. So, to begin with... "Start the SBS!!" Yaaay. How was it Timmy-sama? I started it.
@@ -33,7 +34,8 @@
 </say>
       </d>
    </chapter>
-   <chapter num="101" page="52">
+   <chapter num="101"
+            page="52">
       <d>
          <speaker>D</speaker>
          <say> A question for sensei. Why do Zoro and Sanji and Nami drink alcohol, when they're still minors? Is that allowed?
@@ -66,7 +68,8 @@
 </say>
       </d>
    </chapter>
-   <chapter num="103" page="92">
+   <chapter num="103"
+            page="92">
       <d>
          <speaker>D</speaker>
          <say> Here's a question. When do fan letters reach you, Oda-sensei? Every week? For instance, if I mailed one on November 1, when does it fall into your hands? Please let me know.
@@ -98,7 +101,8 @@
 </say>
       </d>
    </chapter>
-   <chapter num="104" page="112">
+   <chapter num="104"
+            page="112">
       <d>
          <speaker>D</speaker>
          <say> I am the president of the "International Somehow Okay Hair League" (SBS, chapter 58). Restaurant owner Zeff-san's is a splendid specimen, in color, length, gloss, everything!! So we have decided that Zeff-san shall be the "41st Somehow Okay Hair Champion"! Congratulations. Oda-sensei, any comments?!
@@ -140,7 +144,8 @@
 </say>
       </d>
    </chapter>
-   <chapter num="105" page="132">
+   <chapter num="105"
+            page="132">
       <d>
          <speaker>D</speaker>
          <say> How far can Buggy separate himself? I'm so interested I've been growing okay hair for three straight days.
