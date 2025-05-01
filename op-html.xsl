@@ -66,7 +66,8 @@
     
     <xsl:template match="char">
         <span class= "char" title="{@name}">
-            
+         <!-- ebb: I changed this from <div> to <span> because in HTML a <span> is meant to be an inline element
+         with text flowing around it. A <div> is designed to create a separate block on the page. -->   
             <xsl:apply-templates/>
         </span>
             
