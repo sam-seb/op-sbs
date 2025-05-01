@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="27"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="247"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="27" ixml:state="ambiguous">
+   <chapter num="247" page="26">
       <d>
          <speaker>D</speaker>
          <say> Oda-sensei! It's bad! It's horrible! SBS is starting! ......Ah! ......Aaaaah! It's already started---. SBS started *cries*.
@@ -38,8 +35,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="248"
-            page="46">
+   <chapter num="248" page="46">
       <d>
          <speaker>D</speaker>
          <say> Oda-sensei, Hello!! Please tell me Smoker and Hina's profiles. They're both captains and from the same time, but are their ages the same too? Or maybe success has nothing to do with age?
@@ -66,8 +62,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="249"
-            page="66">
+   <chapter num="249" page="66">
       <d>
          <speaker>D</speaker>
          <say> I have a question for Oda-sensei. I'm always looking for Pandaman, but who's this guy that's always by him? And what's that thing he's always holding in his hand?
@@ -90,8 +85,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="250"
-            page="86">
+   <chapter num="250" page="86">
       <info>Mohji: GREAT, AWESOME!! SHALL WE HAVE A PARTY, CAPTAIN?!! Buggy: YOU MEAN WE AREN'T NOW?!!</info>
       <d>
          <speaker>D</speaker>
@@ -114,8 +108,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="251"
-            page="106">
+   <chapter num="251" page="106">
       <info>Cricket: "PASSION"!!!! (Romance)</info>
       <d>
          <speaker>D</speaker>
@@ -140,8 +133,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="252"
-            page="126">
+   <chapter num="252" page="126">
       <d>
          <speaker>D</speaker>
          <say> Hello. I'm a big fan of Nami. So here's a question! Nami's wearing that bracelet even when she's taking a bath (Vol. 23)!! I thought it must be something really important, so I looked through all the volumes, and she's been wearing it since they came out of Kokoyashi Village. And, surprise, Nojiko was wearing it before that!! Did Nojiko give it to Nami when they went to Kokoyashi Village?! There must be some secret sisterly love there... *sniff sniff*? Anyway. Please tell me!!

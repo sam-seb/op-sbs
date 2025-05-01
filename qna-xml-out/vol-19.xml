@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="19"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="167"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="19" ixml:state="ambiguous">
+   <chapter num="167" page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -54,8 +51,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="168"
-            page="46">
+   <chapter num="168" page="46">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -93,14 +89,12 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="169"
-            page="66">
+   <chapter num="169" page="66">
       <qna>
          <info>No questions. Just a little game made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="170"
-            page="86">
+   <chapter num="170" page="86">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -138,14 +132,12 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="172"
-            page="126">
+   <chapter num="172" page="126">
       <qna>
          <info>Another game made by a reader.</info>
       </qna>
    </chapter>
-   <chapter num="173"
-            page="146">
+   <chapter num="173" page="146">
       <qna>
          <info>[insert image of halfboiled]</info>
       </qna>
@@ -180,8 +172,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="175"
-            page="186">
+   <chapter num="175" page="186">
       <qna>
          <d>
             <speaker>D</speaker>

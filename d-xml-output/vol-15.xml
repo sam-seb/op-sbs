@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="15"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="127"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="15" ixml:state="ambiguous">
+   <chapter num="127" page="26">
       <d>
          <speaker>D</speaker>
          <say> Hello, everyone! Today, Miss Valentine-san will start the SBS in place of Oda-sensei!! Take it away, Miss Valentine!!
@@ -27,8 +24,7 @@
       </d>
       <info>[insert SBS_Vol_15_01] It's a message to all the boys and girls saying to go out on a voyage to heal those three scars!! Right?! No, I'm sorry. I forgot... Okay, everyone!! Get out your pens, it's retouching time! I know I make millions of errors, but this is one that I really can't let slide.</info>
    </chapter>
-   <chapter num="129"
-            page="70">
+   <chapter num="129" page="70">
       <d>
          <speaker>D</speaker>
          <say> I have a question. On Volume 12, page 31, what is that "sailing ceremony" they do? Pen Name: Vivi Fanclub No. 17
@@ -41,8 +37,7 @@
       </d>
       <info>[insert SBS15 2 Sailing Ceremony] Kaya: It's finished! → yah!</info>
    </chapter>
-   <chapter num="130"
-            page="90">
+   <chapter num="130" page="90">
       <d>
          <speaker>D</speaker>
          <say> Eiichiro Oda-sama... Give me... something (of your belongings).
@@ -95,8 +90,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="131"
-            page="110">
+   <chapter num="131" page="110">
       <d>
          <speaker>D</speaker>
          <say> Would you like an elephant nose radish? (I caught one myself!) By Chojin Canadian-man.
@@ -128,8 +122,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="132"
-            page="130">
+   <chapter num="132" page="130">
       <d>
          <speaker>D</speaker>
          <say> When reading the SBS in One Piece Volume 13, a shock like lightning ran through my body. The reason why is because I though SBS stood for S(uggoi) B(aka mitai na) S(pace) ("Very Stupid Space"). About five of my friends told me that's what it meant. What should I do...?

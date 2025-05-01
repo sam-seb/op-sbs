@@ -22,7 +22,8 @@
                     SBS Volume <xsl:value-of select="@num"/>
                 </h1>
                 
-                <h2>Question Tally</h2>
+              <section class="qt">  
+                  <h2>Question Tally</h2>
                 
                 <table>
                     <tr>
@@ -39,6 +40,7 @@
                     
                     
                 </table>
+              </section>
                 
                 <xsl:apply-templates select="chapter">
                     <xsl:sort select="chapter/@num"/>
@@ -53,9 +55,7 @@
     
     <xsl:template match="chapter"> 
         <section class="chpt">
-            <h4>
-                Chapter <xsl:value-of select="@num"/>, Page <xsl:value-of select="@page"/>
-        </h4>
+            <h2>Chapter <xsl:value-of select="@num"/>, Page <xsl:value-of select="@page"/></h2>
             <xsl:apply-templates/>
             
         </section>

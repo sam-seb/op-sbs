@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="7"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="54"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="7" ixml:state="ambiguous">
+   <chapter num="54" page="26">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -47,8 +44,7 @@
          <info>[Minatomo image goes here] (Text: "Don't joke around, punk!! Quit lookin' at me~").</info>
       </qna>
    </chapter>
-   <chapter num="55"
-            page="46">
+   <chapter num="55" page="46">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -96,14 +92,12 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="56"
-            page="68">
+   <chapter num="56" page="68">
       <qna>
          <info>No SBS. Special feature on Pandaman.</info>
       </qna>
    </chapter>
-   <chapter num="57"
-            page="88">
+   <chapter num="57" page="88">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -155,8 +149,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="58"
-            page="108">
+   <chapter num="58" page="108">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -210,8 +203,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="59"
-            page="128">
+   <chapter num="59" page="128">
       <qna>
          <d>
             <speaker>D</speaker>
@@ -268,8 +260,7 @@
          </d>
       </qna>
    </chapter>
-   <chapter num="60"
-            page="148">
+   <chapter num="60" page="148">
       <qna>
          <info>No SBS. Results of the First One Piece Character Poll.</info>
       </qna>

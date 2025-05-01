@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<volume num="24"
-        ixml:state="ambiguous"
-        xmlns:ixml="http://invisiblexml.org/NS">
-   <chapter num="217"
-            page="26">
+<volume xmlns:ixml="http://invisiblexml.org/NS" num="24" ixml:state="ambiguous">
+   <chapter num="217" page="26">
       <d>
          <speaker>D</speaker>
          <say> Huh?! What, Eiichirou-kun?! Wait. I'm in a hurry!! Huh?! Say it?! Say what?! No, I will not!! I'm going now, okay?! Okay, goodbye!! (voice fading away)
@@ -37,8 +34,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="218"
-            page="46">
+   <chapter num="218" page="46">
       <d>
          <speaker>D</speaker>
          <say> It takes a while for time to pass in manga, doesn't it? Since it's a weekly story. So, should we wait like 2 more years for Luffy's birthday?
@@ -71,12 +67,10 @@
       </d>
       <info>Name: Attach. Nickname: Atta-chan. He's extremely quick and can sneak into any place he wants. He is called "Flaming Atta-chan" because he yells "Fire!!" whenever he hits the shutter. Head of the Marine Photography Department "Flaming Atta-chan". Attach: FIRE!! *FLASH!*</info>
    </chapter>
-   <chapter num="219"
-            page="66">
+   <chapter num="219" page="66">
       <info>No questions, just a little game made by a reader.</info>
    </chapter>
-   <chapter num="221"
-            page="106">
+   <chapter num="221" page="106">
       <d>
          <speaker>D</speaker>
          <say> Hello. Here's my question, Oda-sensei. Among all your characters, which one do you think of as "most similar to yourself"? (I'm thinking I'm a lot like "Usopp"...)
@@ -108,12 +102,10 @@
 </say>
       </d>
    </chapter>
-   <chapter num="222"
-            page="126">
+   <chapter num="222" page="126">
       <info>Another game made by a reader.</info>
    </chapter>
-   <chapter num="223"
-            page="146">
+   <chapter num="223" page="146">
       <d>
          <speaker>D</speaker>
          <say> Oda-chan! How you doin'?! (Inoki-impression) Umm, I have a question. In One Piece Volume 18, chapter 157, Luffy complains about lack of food with spirally eyes... but right behind him are Nami and her orange trees. Can't he just eat them? They're oranges...
@@ -146,8 +138,7 @@
       </d>
       <info>... BUT I GOT YOUR LETTER. (DUN-DUN-DUUNNN!) Umm. There are two adresses you can use. You can use the address for the editors' offices as written in Jump Magazine, or the special mailbox for the SBS questions only. Either way, it all comes right to me so don't worry.</info>
    </chapter>
-   <chapter num="224"
-            page="166">
+   <chapter num="224" page="166">
       <d>
          <speaker>D</speaker>
          <say> How is it that the spikes from Miss Doublefinger's "Toge Toge Fruit" can also grow from outside her body (her clothes, that is)?
