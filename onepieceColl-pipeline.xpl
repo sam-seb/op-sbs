@@ -48,7 +48,7 @@
             </p:with-input>
             <p:with-input port="stylesheet" href="qna-grouping.xsl"/>
         </p:xslt>
-        <p:identity message="Running the XSLT to output 'QNA' XML structural groups"/>
+        <p:identity message="Running the XSLT to output 'qna' XML structural groups"/>
         <p:store name="qna-xml-out" href="qna-xml-out/{$filename}.xml"/>
         <p:identity message="Applied QNA structural markup!"/>
         <!-- 2025-04-29 ebb: Character Tagging happens in this next step! NOTE: this stage pulls from qna-xml-out. -->
@@ -58,9 +58,20 @@
             </p:with-input>
             <p:with-input port="stylesheet" href="charName-variable.xsl"/>
         </p:xslt>
-        <p:identity message="Running the XSLT to output text for Python NLP"/>
+        <p:identity message="Applying the character tagging to the XML!"/>
         <p:store name="char-xml-out" href="char-xml-out/{$filename}.xml"/>
         <p:identity message="Applied character tagging to the XML"/>
+        <!-- 2025-05-01 ebb: Adding a step here to output HTML into the docs/sbs-volumes directory -->
+        <p:xslt>
+            <p:with-input port="source">
+                <p:pipe step="char-xml-out" port="result"/>
+            </p:with-input>
+            <p:with-input port="stylesheet" href="op-html.xsl"/>
+        </p:xslt>
+        <p:identity message="Running XSLT over the char-tagged XML to output HTML for the website."/>
+        <p:store name="html-out" href="../docs/sbs-volumes/{$filename}.html"/>
+        <p:identity message="Finished running XSLT to output HTML for the website!"/>
+
         <!-- 2025-04-29 ebb: We'll process NLP text output in the LAST stage. 
             CHECK: Does this need to be changed to accommodate QNA + char markup? -->
         <p:xslt>
