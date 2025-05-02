@@ -2,42 +2,136 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>One Piece Project</title>
+        <title>One Piece SBS Analysis Project</title>
         <style>
         body {
-				background-image: url("Images/Backplaceholder1.jpeg"); 
-            color: #333333;
-            font-family: Arial, sans-serif;
-            text-align: center;
             margin: 0;
-            padding: 0;
+            font-family: 'Trebuchet MS', sans-serif;
+            background-image: url("images/one_piece_background.jpg");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: #1a1a1a;
         }
+
+        nav {
+            background-color: rgba(0, 0, 80, 0.9);
+            padding: 15px;
+            text-align: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+        }
+
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #e6c67a;
+            font-weight: bold;
+            font-size: 1.1em;
+        }
+
         header {
-            padding: 20px;
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.85);
+            padding: 30px 20px;
         }
+
         header img {
-            width: 200px;
+            max-width: 280px;
         }
+
         main {
+            max-width: 1100px;
+            margin: 40px auto;
+            background-color: rgba(255, 255, 240, 0.95); 
+            padding: 50px 60px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.2);
+            box-sizing: border-box;
+        }
+
+        h1, h2 {
+            text-align: center;
+            color: #1f2f60;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        a {
+            color: #003366;
+        }
+
+        footer {
+            background-color: rgba(0, 0, 80, 0.9);
+            text-align: center;
             padding: 20px;
+            font-size: 0.9em;
+            color: #ccc;
+        }
+
+        .credit a {
+            color: #87cefa;
+            text-decoration: none;
         }
     </style>
     </head>
     <body>
-        <nav style="background:#b0b9ff">
+        
+        <nav>
             <a href="index.html">Home Page</a>
             <a href="volume-select.html">Volume Select</a>
             <a href="character-select.html">Character Select</a>
             <a href="results.html">Character Tally</a>
+            <a href="https://github.com/sam-seb/op-sbs" target="_blank">GitHub</a>
         </nav>
         <header>
-            <img src="images/onepiece_logo.jpg" alt="one piece logo">
+            <img src="https://one-piece.com/op/links_eng/assets/img/logo.png" alt="One Piece Logo">
         </header>
-        <main style="background:#b0b9ff">
-            <h1>One Piece</h1>
-            <p>Welcome to the start of our project!</p>
-            <p>Embark on an adventure with Luffy and the Straw Hat Pirates!</p>
+        
+        <main>
+            <h1>One Piece SBS Analysis Project</h1>
+            
+            <h2>What Are We Investigating?</h2>
+            <p>
+                In this project, we’re digging into the SBS (“I’m Taking Questions”) sections from Eiichiro Oda’s <em>One Piece</em>. These pages give fans a chance to directly ask the creator questions and the answers range from funny to surprisingly deep.
+            </p>
+            
+            <h2>Our Research Questions</h2>
+            <ul>
+                <li>Which characters are most frequently mentioned by fans?</li>
+                <li>Do certain volumes focus more on main characters or side characters?</li>
+                <li>Are there patterns in what fans ask over time?</li>
+            </ul>
+            
+            <h2>What We've Found So Far</h2>
+            <p>
+                One major takeaway is that fans ask about a mix of both major and minor characters. This supports our idea that character popularity and curiosity aren't limited to the main cast. We also noticed that some characters are asked about more in early volumes while others appear more often later on showing how fan interest shifts with the story.
+            </p>
+            
+            <h2>Want to See for Yourself?</h2>
+            <p>
+                Use the links above to browse questions by volume or by character. You can also check out our full character tally to see who’s most frequently mentioned.
+            </p>
+            
+            <h2>Helpful Resource</h2>
+            <p>
+                We referenced this site while collecting and organizing our data: 
+                <a href="https://onepiece.fandom.com/wiki/SBS_Volume_4" target="_blank">One Piece SBS Volume 4 on Fandom</a>
+            </p>
         </main>
-	    <p xmlns:cc="http://creativecommons.org/ns#" >This work is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
+
+	    <p> This work is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
+        
+        <footer>
+            <p>© 2025 One Piece SBS Project – For Educational Use Only</p>
+            <p class="credit">
+                Created by 
+                <a href="https://github.com/Temiii857" target="_blank">Temitope Sakote</a>, 
+                <a href="https://github.com/sam-seb" target="_blank">Sam Sebulak</a>, and 
+                <a href="https://github.com/Leonidas-11037" target="_blank">Leonardo Karmer</a>
+            </p>
+        </footer>
+        
+
     </body>
 </html>

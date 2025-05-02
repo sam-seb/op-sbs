@@ -1,96 +1,180 @@
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en">
-   <head>
-      <meta charset="UTF-8"/>
-      <title>Final Results</title>
-      <link rel="stylesheet" href="styles.css"/>
-   </head>
-   <body>
-      <nav><a href="index.html">Home Page</a><a href="volume-select.html">Volume Select</a><a href="results.html">Character Tally</a></nav>
-      <main>
-         <h1>Findings</h1>
-         <p>Here we share how often each of ten significant characters from <cite>One Piece</cite> 
-            is mentioned across all SBS sections in the volumes we studied in this project.</p>
-         <div class="svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" width="1000" height="650">
-               <g transform="translate(100, 600)">
-                  <line x1="80" x2="80" y1="0" y2="-470" stroke="red" stroke-width="70"></line>
-                  <text x="80" y="-477" text-anchor="middle" font-size="14" fill="black">47</text>
-                  <text x="80" y="20" text-anchor="middle" font-size="14" fill="black">Luffy</text>
-                  <line x1="160" x2="160" y1="0" y2="-370" stroke="red" stroke-width="70"></line>
-                  <text x="160" y="-377" text-anchor="middle" font-size="14" fill="black">37</text>
-                  <text x="160" y="20" text-anchor="middle" font-size="14" fill="black">Zoro</text>
-                  <line x1="240" x2="240" y1="0" y2="-360" stroke="red" stroke-width="70"></line>
-                  <text x="240" y="-367" text-anchor="middle" font-size="14" fill="black">36</text>
-                  <text x="240" y="20" text-anchor="middle" font-size="14" fill="black">Sanji</text>
-                  <line x1="320" x2="320" y1="0" y2="-360" stroke="red" stroke-width="70"></line>
-                  <text x="320" y="-367" text-anchor="middle" font-size="14" fill="black">36</text>
-                  <text x="320" y="20" text-anchor="middle" font-size="14" fill="black">Nami</text>
-                  <line x1="400" x2="400" y1="0" y2="-180" stroke="red" stroke-width="70"></line>
-                  <text x="400" y="-187" text-anchor="middle" font-size="14" fill="black">18</text>
-                  <text x="400" y="20" text-anchor="middle" font-size="14" fill="black">Usopp</text>
-                  <line x1="480" x2="480" y1="0" y2="-160" stroke="red" stroke-width="70"></line>
-                  <text x="480" y="-167" text-anchor="middle" font-size="14" fill="black">16</text>
-                  <text x="480" y="20" text-anchor="middle" font-size="14" fill="black">Buggy</text>
-                  <line x1="560" x2="560" y1="0" y2="-140" stroke="red" stroke-width="70"></line>
-                  <text x="560" y="-147" text-anchor="middle" font-size="14" fill="black">14</text>
-                  <text x="560" y="20" text-anchor="middle" font-size="14" fill="black">Chopper</text>
-                  <line x1="640" x2="640" y1="0" y2="-140" stroke="red" stroke-width="70"></line>
-                  <text x="640" y="-147" text-anchor="middle" font-size="14" fill="black">14</text>
-                  <text x="640" y="20" text-anchor="middle" font-size="14" fill="black">Vivi</text>
-                  <line x1="720" x2="720" y1="0" y2="-120" stroke="red" stroke-width="70"></line>
-                  <text x="720" y="-127" text-anchor="middle" font-size="14" fill="black">12</text>
-                  <text x="720" y="20" text-anchor="middle" font-size="14" fill="black">Shanks</text>
-                  <line x1="800" x2="800" y1="0" y2="-40" stroke="red" stroke-width="70"></line>
-                  <text x="800" y="-47" text-anchor="middle" font-size="14" fill="black">4</text>
-                  <text x="800" y="20" text-anchor="middle" font-size="14" fill="black">Robin</text>
-                  <line x1="0" y1="-600" x2="0" y2="1" stroke="#000000" stroke-width="3"></line>
-                  <line x1="-1" y1="0" x2="900" y2="0" stroke="black" stroke-width="3"></line>
-               </g></svg></div>
-         <table>
-            <tr>
-               <th>Character Name</th>
-               <th>Count of Mentions</th>
-            </tr>
-            <tr>
-               <td>Luffy</td>
-               <td>47</td>
-            </tr>
-            <tr>
-               <td>Zoro</td>
-               <td>37</td>
-            </tr>
-            <tr>
-               <td>Sanji</td>
-               <td>36</td>
-            </tr>
-            <tr>
-               <td>Nami</td>
-               <td>36</td>
-            </tr>
-            <tr>
-               <td>Usopp</td>
-               <td>18</td>
-            </tr>
-            <tr>
-               <td>Buggy</td>
-               <td>16</td>
-            </tr>
-            <tr>
-               <td>Chopper</td>
-               <td>14</td>
-            </tr>
-            <tr>
-               <td>Vivi</td>
-               <td>14</td>
-            </tr>
-            <tr>
-               <td>Shanks</td>
-               <td>12</td>
-            </tr>
-            <tr>
-               <td>Robin</td>
-               <td>4</td>
-            </tr>
-         </table>
-      </main>
-   </body>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Final Results</title>
+        <style>
+        body {
+            margin: 0;
+            font-family: 'Trebuchet MS', sans-serif;
+            background-image: url("images/one_piece_background.jpg");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: #1a1a1a;
+        }
+
+        nav {
+            background-color: rgba(0, 0, 80, 0.9);
+            padding: 15px;
+            text-align: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+        }
+
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #e6c67a;
+            font-weight: bold;
+            font-size: 1.1em;
+        }
+
+        header {
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.85);
+            padding: 30px 20px;
+        }
+
+        header img {
+            max-width: 280px;
+        }
+
+        main {
+            max-width: 1100px;
+            margin: 40px auto;
+            background-color: rgba(255, 255, 240, 0.95);
+            padding: 50px 60px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.2);
+            box-sizing: border-box;
+        }
+
+        h1, h2 {
+            text-align: center;
+            color: #1f2f60;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 30px;
+        }
+
+        th, td {
+            padding: 12px;
+            border: 1px solid #999;
+            text-align: center;
+        }
+
+        footer {
+            background-color: rgba(0, 0, 80, 0.9);
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9em;
+            color: #ccc;
+        }
+
+        .credit a {
+            color: #87cefa;
+            text-decoration: none;
+        }
+    </style>
+    </head>
+    <body>
+        
+        <nav>
+            <a href="index.html">Home Page</a>
+            <a href="volume-select.html">Volume Select</a>
+            <a href="character-select.html">Character Select</a>
+            <a href="results.html">Character Tally</a>
+            <a href="https://github.com/sam-seb/op-sbs" target="_blank">GitHub</a>
+        </nav>
+        
+        <header>
+            <img src="https://one-piece.com/op/links_eng/assets/img/logo.png" alt="One Piece Logo">
+        </header>
+        
+        <main>
+            <h1>Findings</h1>
+            <p>
+                Here we share how often each of ten significant characters from <cite>One Piece</cite> 
+                is mentioned across all SBS sections in the volumes we studied in this project.
+            </p>
+            
+            <h2>Answering Our Research Questions</h2>
+            <ul>
+                <li><strong>Who gets mentioned the most?</strong> Luffy leads with the highest number of mentions, followed closely by Zoro, Sanji, and Nami.</li>
+                <li><strong>Do fans ask about side characters?</strong> Absolutely. Characters like Buggy, Vivi, Chopper, and even Shanks appear regularly in fan questions, showing wide interest beyond the main crew.</li>
+                <li><strong>Do character mentions change over time?</strong> Yes, we noticed patterns where some characters are heavily asked about early in the manga, while others rise in popularity in later volumes.</li>
+            </ul>
+            
+            <h2>Visual Chart of Mentions</h2>
+            
+            <div class="svg">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" width="1000" height="650">
+                    <g transform="translate(100, 600)">
+                        <line x1="80" x2="80" y1="0" y2="-470" stroke="red" stroke-width="70"></line>
+                        <text x="80" y="-477" text-anchor="middle" font-size="14" fill="black">47</text>
+                        <text x="80" y="20" text-anchor="middle" font-size="14" fill="black">Luffy</text>
+                        <line x1="160" x2="160" y1="0" y2="-370" stroke="red" stroke-width="70"></line>
+                        <text x="160" y="-377" text-anchor="middle" font-size="14" fill="black">37</text>
+                        <text x="160" y="20" text-anchor="middle" font-size="14" fill="black">Zoro</text>
+                        <line x1="240" x2="240" y1="0" y2="-360" stroke="red" stroke-width="70"></line>
+                        <text x="240" y="-367" text-anchor="middle" font-size="14" fill="black">36</text>
+                        <text x="240" y="20" text-anchor="middle" font-size="14" fill="black">Sanji</text>
+                        <line x1="320" x2="320" y1="0" y2="-360" stroke="red" stroke-width="70"></line>
+                        <text x="320" y="-367" text-anchor="middle" font-size="14" fill="black">36</text>
+                        <text x="320" y="20" text-anchor="middle" font-size="14" fill="black">Nami</text>
+                        <line x1="400" x2="400" y1="0" y2="-180" stroke="red" stroke-width="70"></line>
+                        <text x="400" y="-187" text-anchor="middle" font-size="14" fill="black">18</text>
+                        <text x="400" y="20" text-anchor="middle" font-size="14" fill="black">Usopp</text>
+                        <line x1="480" x2="480" y1="0" y2="-160" stroke="red" stroke-width="70"></line>
+                        <text x="480" y="-167" text-anchor="middle" font-size="14" fill="black">16</text>
+                        <text x="480" y="20" text-anchor="middle" font-size="14" fill="black">Buggy</text>
+                        <line x1="560" x2="560" y1="0" y2="-140" stroke="red" stroke-width="70"></line>
+                        <text x="560" y="-147" text-anchor="middle" font-size="14" fill="black">14</text>
+                        <text x="560" y="20" text-anchor="middle" font-size="14" fill="black">Chopper</text>
+                        <line x1="640" x2="640" y1="0" y2="-140" stroke="red" stroke-width="70"></line>
+                        <text x="640" y="-147" text-anchor="middle" font-size="14" fill="black">14</text>
+                        <text x="640" y="20" text-anchor="middle" font-size="14" fill="black">Vivi</text>
+                        <line x1="720" x2="720" y1="0" y2="-120" stroke="red" stroke-width="70"></line>
+                        <text x="720" y="-127" text-anchor="middle" font-size="14" fill="black">12</text>
+                        <text x="720" y="20" text-anchor="middle" font-size="14" fill="black">Shanks</text>
+                        <line x1="800" x2="800" y1="0" y2="-40" stroke="red" stroke-width="70"></line>
+                        <text x="800" y="-47" text-anchor="middle" font-size="14" fill="black">4</text>
+                        <text x="800" y="20" text-anchor="middle" font-size="14" fill="black">Robin</text>
+                        <line x1="0" y1="-600" x2="0" y2="1" stroke="#000000" stroke-width="3"></line>
+                        <line x1="-1" y1="0" x2="900" y2="0" stroke="black" stroke-width="3"></line>
+                    </g>
+                </svg>
+            </div>
+            <h2>Character Mentions Table</h2>
+            <table>
+                <tr>
+                    <th>Character Name</th>
+                    <th>Count of Mentions</th>
+                </tr>
+                <tr><td>Luffy</td><td>47</td></tr>
+                <tr><td>Zoro</td><td>37</td></tr>
+                <tr><td>Sanji</td><td>36</td></tr>
+                <tr><td>Nami</td><td>36</td></tr>
+                <tr><td>Usopp</td><td>18</td></tr>
+                <tr><td>Buggy</td><td>16</td></tr>
+                <tr><td>Chopper</td><td>14</td></tr>
+                <tr><td>Vivi</td><td>14</td></tr>
+                <tr><td>Shanks</td><td>12</td></tr>
+                <tr><td>Robin</td><td>4</td></tr>
+            </table>
+        </main>
+        
+        <footer>
+            <p>© 2025 One Piece SBS Project – For Educational Use Only</p>
+            <p class="credit">
+                Created by 
+                <a href="https://github.com/Temiii857" target="_blank">Temitope Sakote</a>, 
+                <a href="https://github.com/sam-seb" target="_blank">Sam Sebulak</a>, and 
+                <a href="https://github.com/Leonidas-11037" target="_blank">Leonardo Karmer</a>
+            </p>
+        </footer>
+        
+    </body>
 </html>
