@@ -2,24 +2,80 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>SBS 1</title>
+        <title>SBS Volume 4</title>
         <style>
         body {
-            background-color: #f0f8ff; 
-            color: #333333;
-            font-family: Arial, sans-serif;
-            text-align: center;
             margin: 0;
-            padding: 0;
+            font-family: 'Trebuchet MS', sans-serif;
+            background-image: url("images/one_piece_background.jpg");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: #1a1a1a;
         }
+
+        nav {
+            background-color: rgba(0, 0, 80, 0.9);
+            padding: 15px;
+            text-align: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+        }
+
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #e6c67a;
+            font-weight: bold;
+            font-size: 1.1em;
+        }
+
         header {
-            padding: 20px;
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.85);
+            padding: 30px 20px;
         }
+
         header img {
-            width: 200px;
+            max-width: 280px;
         }
+
         main {
+            max-width: 1100px;
+            margin: 40px auto;
+            background-color: rgba(255, 255, 240, 0.95);
+            padding: 50px 60px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.2);
+            box-sizing: border-box;
+            text-align: left;
+        }
+
+        h1, h2 {
+            color: #1f2f60;
+        }
+
+        table {
+            border-collapse: collapse;
+            margin: 20px 0;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #999;
+            padding: 10px;
+            text-align: left;
+        }
+
+        footer {
+            background-color: rgba(0, 0, 80, 0.9);
+            text-align: center;
             padding: 20px;
+            font-size: 0.9em;
+            color: #ccc;
+        }
+
+        .credit a {
+            color: #87cefa;
+            text-decoration: none;
         }
     </style>
     </head>
@@ -27,13 +83,28 @@
         <nav>
             <a href="index.html">Home Page</a>
             <a href="volume-select.html">Volume Select</a>
+            <a href="character-select.html">Character Select</a>
             <a href="results.html">Character Tally</a>
+            <a href="https://github.com/sam-seb/op-sbs" target="_blank">GitHub</a>
         </nav>
         <header>
             <img src="images/SBS_Vol_4_header.webp" alt="Placeholder Image">
         </header>
         <main>
             <h1>SBS Volume 4</h1>
+            <h2>Question Tally</h2>
+            <table>
+                <tr>
+                    <th>Character Name</th>
+                    <th>Count of Mentions</th>
+                </tr>
+                <tr><td>Luffy</td><td>15</td></tr>
+                <tr><td>Zoro</td><td>7</td></tr>
+                <tr><td>Nami</td><td>4</td></tr>
+                <tr><td>Shanks</td><td>2</td></tr>
+                <tr><td>Usopp</td><td>1</td></tr>
+                <tr><td>Buggy</td><td>1</td></tr>
+            </table>
             <h3>Chapter 27, Page 28</h3>
             <p>O: As announced in Volume 2, the SBS Corner is now created. I received a lot of letters, thanks to everyone that sent them. And now, I will give an answer to all of you reader's questions and comments.</p>
             <p>D: How old are Luffy, Zoro, Nami, and Shanks?</p>
@@ -94,22 +165,18 @@
             <p>O: If you want to know what they are, please just continue reading my manga. How many are there? From the rumors I've heard, there are over 100. And many people with the special abilities are at "that place".</p>
             <h3>Chapter 34, Page 170</h3>
             <p>*Eight requests from the readers and the announcement of "Usopp Gallery Pirates".*</p>
-            <h2>Question Tally</h2>
-            <p>Eiichiro Oda: 5</p>
-            <p>Worldbuilding: 2</p>
-            <p>Joke/Other: 1</p>
-            <p>Luffy: 5</p>
-            <p>Nami: 2 (+ Special Appearance)</p>
-            <p>Zoro: 3</p>
-            <p>Shanks: 1</p>
-            <p>Buggy: 1</p>
-            <p>Mohji: 1</p>
-            <p>Klahadore: 1</p>
-            <p>Mikio Itoo: 1</p>
-            <p>Usopp: 8 (Although it is about the announcement of "Usopp Gallery Pirates" and not the character himself.)</p>
             
             <a href="volume-select.html">Volume Select</a>
             <a href="volume5.html">Volume 5</a>
         </main>
+        <footer>
+            <p>© 2025 One Piece SBS Project – For Educational Use Only</p>
+            <p class="credit">
+                Created by 
+                <a href="https://github.com/Temiii857" target="_blank">Temitope Sakote</a>, 
+                <a href="https://github.com/sam-seb" target="_blank">Sam Sebulak</a>, and 
+                <a href="https://github.com/Leonidas-11037" target="_blank">Leonardo Karmer</a>
+            </p>
+        </footer>
     </body>
 </html>

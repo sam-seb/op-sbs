@@ -2,44 +2,116 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>One Piece Project</title>
+        <title>Volume Select</title>
         <style>
         body {
-            background-color: #f0f8ff; 
-            color: #333333;
-            font-family: Arial, sans-serif;
-            text-align: center;
             margin: 0;
-            padding: 0;
+            font-family: 'Trebuchet MS', sans-serif;
+            background-image: url("images/one_piece_background.jpg");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: #1a1a1a;
         }
+
+        nav {
+            background-color: rgba(0, 0, 80, 0.9);
+            padding: 15px;
+            text-align: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+        }
+
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #e6c67a;
+            font-weight: bold;
+            font-size: 1.1em;
+        }
+
         header {
-            padding: 20px;
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.85);
+            padding: 30px 20px;
         }
+
         header img {
-            width: 200px;
+            max-width: 280px;
         }
+
         main {
+            max-width: 1100px;
+            margin: 40px auto;
+            background-color: rgba(255, 255, 240, 0.95);
+            padding: 50px 60px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.2);
+            box-sizing: border-box;
+        }
+
+        h1, h2 {
+            text-align: center;
+            color: #1f2f60;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            text-align: center;
+            columns: 2;
+        }
+
+        ul li {
+            margin: 10px 0;
+        }
+
+        a {
+            color: #003366;
+            text-decoration: none;
+        }
+
+        a:hover {
+    color: #2f8de0; 
+    text-decoration: underline;
+    transition: color 0.2s ease-in-out;
+}
+
+        footer {
+            background-color: rgba(0, 0, 80, 0.9);
+            text-align: center;
             padding: 20px;
+            font-size: 0.9em;
+            color: #ccc;
+        }
+
+        .credit a {
+            color: #87cefa;
+            text-decoration: none;
         }
     </style>
     </head>
     <body>
+        
         <nav>
             <a href="index.html">Home Page</a>
             <a href="volume-select.html">Volume Select</a>
             <a href="character-select.html">Character Select</a>
             <a href="results.html">Character Tally</a>
+            <a href="https://github.com/sam-seb/op-sbs" target="_blank">GitHub</a>
         </nav>
+        
         <header>
-            <img src="images/Flintlock_Infobox.webp" alt="Placeholder Image">
+            <img src="https://one-piece.com/op/links_eng/assets/img/logo.png" alt="One Piece Logo">
         </header>
+        
         <main>
             <h1>Volume Select</h1>
-            <p>This page, if properly developed, would allow the user to access recreations of the the SBS/"I'm Taking Questions" section of Eiichiro Oda's manga ONE PIECE. We would also translate the text of images from Japanese to English. There would be a tally at the bottom of the screen showing what characters got asked a question and how many times (With the world and Oda each getting their own catagory).</p>
-            <p>The following is a rough example of what I wish to achieve with this. We should also work on stylizing the overal site in the future.</p>
+            <p>
+                This page allows you to explore recreated versions of the SBS ("I'm Taking Questions") sections from Eiichiro Oda's <em>One Piece</em> manga. These segments contain direct fan questions and Oda's responses. Our goal is to provide access to these interactions along with translated summaries and character tallies.
+            </p>
+            
             <section>
-                <h2>Volume Select</h2>
-                <ul style="list-style-type: none; padding: 0;">
+                <h2>Choose a Volume</h2>
+                <ul>
                     <li><a href="volume4-example.html">SBS 1: OP Volume 4</a></li>
                     <li>SBS 2: OP Volume 5</li>
                     <li>SBS 3: OP Volume 6</li>
@@ -56,7 +128,7 @@
                     <li>SBS 14: OP Volume 17</li>
                     <li>SBS 15: OP Volume 18</li>
                     <li>SBS 16: OP Volume 19</li>
-                    <li>SBS 17: OP Volume 20</li>
+                    <li><a href="v20.html">SBS 17: OP Volume 20</a></li>
                     <li>SBS 18: OP Volume 21</li>
                     <li>SBS 19: OP Volume 22</li>
                     <li>SBS 20: OP Volume 23</li>
@@ -67,5 +139,16 @@
                 </ul>
             </section>
         </main>
+        
+        <footer>
+            <p>© 2025 One Piece SBS Project – For Educational Use Only</p>
+            <p class="credit">
+                Created by 
+                <a href="https://github.com/Temiii857" target="_blank">Temitope Sakote</a>, 
+                <a href="https://github.com/sam-seb" target="_blank">Sam Sebulak</a>, and 
+                <a href="https://github.com/Leonidas-11037" target="_blank">Leonardo Karmer</a>
+            </p>
+        </footer>
+        
     </body>
 </html>
